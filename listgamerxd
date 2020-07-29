@@ -268,6 +268,6 @@ http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Web TV Uai
 https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah!
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+http://148.69.92.171:4022/udp/239.100.28.18:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",ZOOM
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
