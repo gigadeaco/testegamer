@@ -11,7 +11,7 @@ http://177.91.162.202:8000/play/AeE/index.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png" group-title="General",ALL TV
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
-#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://image.flaticon.com/icons/svg/826/826330.svg" group-title="",Paramont
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://image.roku.com/developer_channels/prod/c80b4899af083b4cbeec5acbddae68086e0df5ee4301b3a2719bf40a5935aaff.png" group-title="",Paramont
 http://177.91.162.202:8000/play/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.iconspng.com/uploads/nrj-12-logo.png" group-title="Local",NRJ 12
 http://148.63.237.46:8000/play/a02f/index.m3u8
