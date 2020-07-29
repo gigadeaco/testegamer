@@ -151,10 +151,10 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORT TV
+http://177.91.162.202:8000/play/SporTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2
+http://177.91.162.202:8000/play/SporTV2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC
 http://177.91.162.202:8000/play/PFC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fNF8xNTg4MTQwMDU4XzA5NQ/screen-4.jpg?fakeurl=1&type=.jpg" group-title="General",PFC 2
