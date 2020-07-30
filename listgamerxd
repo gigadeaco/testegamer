@@ -123,6 +123,8 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://177.91.162.202:8000/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://148.63.237.46:8000/play/a005/index.m3u8" group-title="Religious",SPORTV Tv1
 http://148.63.237.46:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://148.63.237.46:8000/play/a005/index.m3u8" group-title="Religious",SPORTV link2
+https://origin.topcanais.com/mylive/sportvsd/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV Mais
 https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv2
