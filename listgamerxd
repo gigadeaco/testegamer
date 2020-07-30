@@ -17,10 +17,10 @@ http://177.91.162.202:8000/play/Paramount/index.m3u8
 http://177.91.162.202:8000/play/BIS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="General",Canal Ricos
-https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Health",Canal Saúde
-https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_axn-hd_m.png" group-title="General",AXN
+http://177.91.162.202:8000/play/AXN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://seeklogo.com/images/C/canal-sony-entretenimiento-logo-D7FD6DCC88-seeklogo.com.png" group-title="Health",SONY
+http://177.91.162.202:8000/play/Sony/index.m3u8
 #EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YCR386w.png" group-title="Education",CATVE
@@ -37,6 +37,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/mast
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports
+http://177.91.162.202:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zmLUC5Y.png" group-title="",FM O Dia
@@ -69,8 +71,8 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BMwYjkX.png" group-title="Music",MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gn66K1Z.png" group-title="Education",MultiRio
-http://187.111.97.45:1935/webtv/webtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f0/Boomerang-CN.png" group-title="Education",Boomerang
+http://177.91.162.202:8000/play/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV
@@ -117,8 +119,10 @@ https://582b8d3a8267b.streamlock.net/2502/2502/playlist.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Local",TCM HD
 https://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://4.bp.blogspot.com/-H2N8-gDdjF0/U5csWS1nrmI/AAAAAAAAEGg/fgEjmW0Ii8k/s1600/tv-band.fw.png" group-title="Hobby",BAND
+http://177.91.162.202:8000/play/BandSP/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/bandnews-logo/bandnews-logo/" group-title="Hobby",BAND NEWS
+http://177.91.162.202:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Music",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
