@@ -121,10 +121,10 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pt.pngtree.com/freepng/round-cartoon-icon-design_4616793.html" group-title="test",PLAY
 http://177.91.162.202:8000/play/Playboy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://148.63.237.46:8000/play/a005/index.m3u8" group-title="Religious",SPORTV Tv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/7J36CZT89GY86C3.jpg" group-title="Religious",SPORTV Tv1
 http://148.63.237.46:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://148.63.237.46:8000/play/a005/index.m3u8" group-title="Religious",SPORTV link2
-https://origin.topcanais.com/mylive/sportvsd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Religious",SPORTV link2
+http://str.smartip-tv.net:8888/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV Mais
 https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv2
