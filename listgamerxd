@@ -191,8 +191,8 @@ http://177.91.162.202:8000/play/PFC/index.m3u8
 http://177.91.162.202:8000/play/PFC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",AMC
 http://177.91.162.202:8000/play/AMC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",AMC LINK 2
-http://rstr0.teamnetwork.co/stream149/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",Arena Sport
+http://51.91.25.152:8080/ARENA_SPORT_5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
