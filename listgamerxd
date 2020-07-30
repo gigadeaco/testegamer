@@ -123,8 +123,8 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://177.91.162.202:8000/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/7J36CZT89GY86C3.jpg" group-title="Religious",SPORTV Tv1
 http://148.63.237.46:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Religious",SPORTV link2
-http://str.smartip-tv.net:8888/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Religious",Euro 2
+http://188.240.201.26:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV Mais
 https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv2
@@ -194,7 +194,7 @@ http://177.91.162.202:8000/play/PFC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",AMC
 http://177.91.162.202:8000/play/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",Arena Sport
-http://51.91.25.152:8080/ARENA_SPORT_5/index.m3u8
+http://188.240.201.26:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
