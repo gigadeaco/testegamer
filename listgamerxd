@@ -55,8 +55,8 @@ http://177.91.162.202:8000/play/a03z/index.m3u8
 http://177.91.162.202:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.vippng.com/png/full/193-1937667_european-cinema-tv-channel-eurochannel-is-launching-logo.png" group-title="Sport",EURO CHANNEL
 http://177.91.162.202:8000/play/Eurochannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://aux2.iconspalace.com/uploads/4980043942035905357.png" group-title="Sport",EURO SPORT 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://aux2.iconspalace.com/uploads/4980043942035905357.png" group-title="Sport",Penthouse
+http://185.18.56.74:5555/udp/239.10.10.17:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zmLUC5Y.png" group-title="",FM O Dia
