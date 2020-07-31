@@ -80,9 +80,9 @@ http://tvpro.millenium-ott.com:25443/gxvZ3x8JiE/VYTmU7xTmQ/22498
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
 http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/900px-Under_construction_icon-yellow.svg.png" group-title="Local",Teste 1
-http://cloudflare.cdn.cdntraffice.com:8080/henningpe1/tZ5zvH136/9010
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/900px-Under_construction_icon-yellow.svg.png" group-title="Education",Teste 2
-http://tvpro.millenium-ott.com:25443/gxvZ3x8JiE/VYTmU7xTmQ/31741
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
