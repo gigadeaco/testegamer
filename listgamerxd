@@ -297,10 +297,10 @@ http://150.161.93.220/hls/1080/index.m3u8
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" group-title="General",Viva Web TV
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="Local",Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="Local",Web TV Santana
-http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="Local",Venus HD
+http://forceie.com:2082/josemaria/josemaria/60837
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="Local",sexy hot
+http://forceie.com:2082/josemaria/josemaria/584
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",sextreme
 ttp://187.120.222.12:8000/play/Sextreme/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",HOT
