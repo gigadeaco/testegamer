@@ -301,9 +301,9 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="Local",Web TV Santana
 http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah!
-http://148.69.92.171:4022/udp/239.100.28.18:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",ZOOM
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",sextreme
+ttp://187.120.222.12:8000/play/Sextreme/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",HOT
+http://185.236.229.2:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Hustler HD
+http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
