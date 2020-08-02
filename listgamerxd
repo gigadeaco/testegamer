@@ -125,6 +125,14 @@ http://177.91.162.202:8000/play/MTVLIVE/index.m3u8
 http://177.91.162.202:8000/play/MusicBox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil-hd_m.png" group-title="Music",PRIME BOX BR
 http://177.91.162.202:8000/play/PrimeBox/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="Education",NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="Education",VH1 Hits
+http://177.91.162.202:8000/play/VH1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Music",TopTV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="General",Dance TV
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f0/Boomerang-CN.png" group-title="Education",Boomerang
 http://177.91.162.202:8000/play/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV
@@ -147,8 +155,6 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pt.pngtree.com/freepng/round-cartoon-icon-design_4616793.html" group-title="test",PLAY
-http://177.91.162.202:8000/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/7J36CZT89GY86C3.jpg" group-title="Religious",SPORTV Tv1
 http://148.63.237.46:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Religious",Euro 2
@@ -181,8 +187,6 @@ http://177.91.162.202:8000/play/a041/index.m3u8
 http://177.91.162.202:8000/play/GloboNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.flaticon.com/icons/svg/826/826328.svg" group-title="Hobby",CNN News
 http://177.91.162.202:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Music",TopTV
-https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN
@@ -325,10 +329,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/8OrN6Gs.png" group-title="Education",TVU Recife
 http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="Education",NRJ Hits
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="General",Dance TV
-http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pt.pngtree.com/freepng/round-cartoon-icon-design_4616793.html" group-title="test",PLAY
+http://177.91.162.202:8000/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="Local",Venus HD
 http://forceie.com:2082/josemaria/josemaria/60837
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="Local",sexy hot
