@@ -35,7 +35,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",TV Ratimbum
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest/scale-to-width-down/250?cb=20200705204322" group-title="Kids",TV Ratimbum
 http://177.91.162.202:8000/play/TVRATIMBUM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" group-title="Kids",Disney JR
 http://177.91.162.202:8000/play/DisneyJunior/index.m3u8
@@ -43,6 +43,10 @@ http://177.91.162.202:8000/play/DisneyJunior/index.m3u8
 http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-vF2FdVy6KZA/VvmkzUBGoCI/AAAAAAAApwI/kT6DS3u03nMfOK37GtWqDJYJdyR6ELS9Q/s400/Canal%2BGloob.png" group-title="Kids",Gloob
 http://177.91.162.202:8000/play/Gloob/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
+http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/Nick_Jr.gif" group-title="Kids",Nick JR
+http://177.91.162.202:8000/play/NickJr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
 http://177.91.162.202:8000/play/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/1a/0a/62/1a0a6281c17dc5f196b75ac0c95f42ee.jpg" group-title="Sport",ESPN Extra
@@ -84,7 +88,7 @@ http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
+http://177.91.162.202:8000/play/FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2
 http://177.91.162.202:8000/play/FOXSports2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Jck7rq.png" group-title="Travel",USA Sports
@@ -109,8 +113,6 @@ http://177.91.162.202:8000/play/MusicBox/index.m3u8
 http://177.91.162.202:8000/play/PrimeBox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f0/Boomerang-CN.png" group-title="Education",Boomerang
 http://177.91.162.202:8000/play/Boomerang/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
@@ -161,6 +163,10 @@ https://live.tcm10.com.br/tcm10.m3u8
 http://177.91.162.202:8000/play/BandSP/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/bandnews-logo/bandnews-logo/" group-title="Hobby",BAND NEWS
 http://177.91.162.202:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/GloboNews_2017_alt.svg/revision/latest/scale-to-width-down/200?cb=20191202143201" group-title="Hobby",Globo News
+http://177.91.162.202:8000/play/GloboNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.flaticon.com/icons/svg/826/826328.svg" group-title="Hobby",CNN News
+http://177.91.162.202:8000/play/CNNBrasil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Music",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
