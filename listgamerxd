@@ -44,7 +44,7 @@ http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-vF2FdVy6KZA/VvmkzUBGoCI/AAAAAAAApwI/kT6DS3u03nMfOK37GtWqDJYJdyR6ELS9Q/s400/Canal%2BGloob.png" group-title="Kids",Gloob
 http://177.91.162.202:8000/play/Gloob/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+http://177.91.162.202:8000/play/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/1a/0a/62/1a0a6281c17dc5f196b75ac0c95f42ee.jpg" group-title="Sport",ESPN Extra
 http://177.91.162.202:8000/play/ESPNExtra/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.ibb.co/ncEZQy/1200px_Logo_espnbrasil.png" group-title="Education",ESPN BR
@@ -64,9 +64,21 @@ https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Religious",Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
+http://177.91.162.202:8000/play/FOX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
+http://177.91.162.202:8000/play/Megapix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Entertainment",TEL PREMIUM
+http://177.91.162.202:8000/play/TCPremium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Entertainment",TEL ACTION
+http://177.91.162.202:8000/play/TCAction/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Entertainment",TEL Pipoca
+http://177.91.162.202:8000/play/TCPipoca/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Entertainment",TEL FUN
+http://177.91.162.202:8000/play/TCFun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Entertainment",TEL TOUCH
+http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Entertainment",Fox Premium
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
+http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
 http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
@@ -88,7 +100,7 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BMwYjkX.png" group-title="Music",MTV Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
+http://177.91.162.202:8000/play/MTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://2.bp.blogspot.com/-vjkk7iiADxs/W2Wfn58NNwI/AAAAAAAA3GA/uHiDJQ8Q64UdykK79twZHdad-O3yHlQ8wCLcBGAs/s640/MTV%2BLIVE%2BHD.png" group-title="Music",MTV Live
 http://177.91.162.202:8000/play/MTVLIVE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil-hd_m.png" group-title="Music",MUSIC BOX BR
