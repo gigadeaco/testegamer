@@ -71,15 +71,15 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 http://177.91.162.202:8000/play/FOX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
 http://177.91.162.202:8000/play/Megapix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="Entertainment",TEL PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-premium-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYzOWJkMTc5NTI2NzQ3MGQ4ZDhkZmQ1OTdkZjBhZGYucG5n" group-title="Entertainment",TEL PREMIUM
 http://177.91.162.202:8000/play/TCPremium/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156144/telecine-action-hd.png?v=636446361920170000" group-title="Entertainment",TEL ACTION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-action-ao-vivo-24-hora-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWMzNThhMmIwNjFmYTViODkzY2VhNTQzZGY4YWRjMWEucG5n" group-title="Entertainment",TEL ACTION
 http://177.91.162.202:8000/play/TCAction/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" group-title="Entertainment",TEL Pipoca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-pipoca-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMzUxNmJiMzk2ODY3ZTJjYmU0MTJkOTJmM2EwMTY0OTYucG5n" group-title="Entertainment",TEL Pipoca
 http://177.91.162.202:8000/play/TCPipoca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" group-title="Entertainment",TEL FUN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-fun-ao-vivo-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWNhMTc5ZmJiZWRhMDc3ZTU2ZGRhN2NjZDEzYjgzNmIucG5n" group-title="Entertainment",TEL FUN
 http://177.91.162.202:8000/play/TCFun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png",TEL TOUCH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-touch-hd-ao-vivo-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvODk5YjVmNWYwOGEwYjc2NTllY2Q3ZGRiZWZkNjk3ODUucG5n",TEL TOUCH
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Entertainment",Fox Premium
 http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
