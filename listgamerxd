@@ -20,7 +20,7 @@ http://177.91.162.202:8000/play/BIS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
 http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_axn-hd_m.png" group-title="General",AXN
-http://177.91.162.202:8000/play/AXN/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36991
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://seeklogo.com/images/C/canal-sony-entretenimiento-logo-D7FD6DCC88-seeklogo.com.png" group-title="Health",SONY
 http://177.91.162.202:8000/play/Sony/index.m3u8
 #EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova
@@ -106,9 +106,9 @@ http://177.91.162.202:8000/play/TCFun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png",TEL TOUCH
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="Entertainment",Fox Premium
-http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/68116
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
-http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/68118
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports op2
@@ -118,7 +118,7 @@ http://177.91.162.202:8000/play/FOXSports2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2 op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
-http://177.91.162.202:8000/play/FX/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
 http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
@@ -126,23 +126,23 @@ http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Local",GNT
 http://177.91.162.202:8000/play/GNT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/hbo-2-hd-na-net.jpg" group-title="Education",HBO HD
-http://177.91.162.202:8000/play/a04b/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36964
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d9dea8ac4682a3f34fe41bc0f2832a46.png" group-title="Education",HBO family
-http://177.91.162.202:8000/play/HBOFamily/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Education",HBO MUNDI
-http://177.91.162.202:8000/play/HBOMUNDI/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP
-http://177.91.162.202:8000/play/HBOPOP/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP op2
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/93aadc0910348fcf43def9484e5f0fc4.png" group-title="Education",HBO SIGNATURE
-http://177.91.162.202:8000/play/HBOSignature/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36962
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Education",HBO Xtreme
-http://177.91.162.202:8000/play/HBOXTREME/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36912
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/9841b5a4f002c448b04f6ec6138d6533.png" group-title="Education",HBO HD+
-http://177.91.162.202:8000/play/HBOmais/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36963
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO 2
-http://177.91.162.202:8000/play/HBO2/index.m3u8
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
