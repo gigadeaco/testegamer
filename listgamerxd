@@ -85,6 +85,8 @@ http://177.91.162.202:8000/play/TNT/index.m3u8
 http://177.91.162.202:8000/play/TNTSeries/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_warner-hd_m.png" group-title="Entertainment",Warner Channel
 http://177.91.162.202:8000/play/Warner/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_warner-hd_m.png" group-title="Entertainment",Warner Channel LEG
+http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36930
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox
 http://177.91.162.202:8000/play/FOX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
