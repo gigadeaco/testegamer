@@ -400,7 +400,7 @@ http://150.161.93.220/hls/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_playboy_m.png" group-title="adult",PLAY
 http://177.91.162.202:8000/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="adult",Venus HD
-http://forceie.com:2082/josemaria/josemaria/60837
+http://201.87.232.214:8880/marcondes/101010/14406
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="adult",Hustler TV
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18095
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE
