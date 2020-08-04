@@ -230,9 +230,9 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/7J36CZT89GY86C3.jpg" group-title="Sport",MAX Sports TV
-http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+http://wearethebest.me:8080/get.php?username=flash_maxplus&password=RYRr97FRt6&type=m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",Max sports 2 tv2
-http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
+http://mytv.fun:8080/get.php?username=5o6hd3l5zh&password=4l0kd4txsa&type=m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv3
 http://148.63.237.46:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv4
