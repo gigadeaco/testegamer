@@ -297,6 +297,21 @@ http://177.91.162.202:8000/play/PFC5/index.m3u8
 http://177.91.162.202:8000/play/PFC6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.contax.net.au/wp-content/uploads/2019/07/7sportlogo02-resized.jpg" group-title="Movies",Premiere 7
 http://177.91.162.202:8000/play/PFC7/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Premiere Opcão 3" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES [4K]
+http://psrv.io:80/78167984453/snakeplay/26184
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 FHD
+http://tvaz.top:80/martins/123456/69086
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 FHD
+http://tvaz.top:80/martins/123456/69089
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
+http://tvaz.top:80/martins/123456/69092
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 FHD
+http://tvaz.top:80/martins/123456/69095
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 6 FHD
+http://tvaz.top:80/martins/123456/69098
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 FHD
+http://tvaz.top:80/martins/123456/69101
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 1
 http://pfsv.io:80/96624250/iptv4k/504
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 2
@@ -317,6 +332,8 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2037
 http://177.91.162.202:8000/play/SporTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORTV op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV FHD H265¹
+http://brasiltv2020.live:80/deyamedeiros/121148/30191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2
 http://177.91.162.202:8000/play/SporTV2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2 op2
