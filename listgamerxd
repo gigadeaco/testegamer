@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1uuiA4dsk4ya6t0iXTM50EysLceKkWs4IHw&usqp=CAU" group-title="",Multishow
 http://177.91.162.202:8000/play/Multishow/index.m3u8
+#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",Multshow FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro +
@@ -31,6 +33,8 @@ https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 http://177.91.162.202:8000/play/Cartoon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
 https://proxyts.canais.gratis:8443/hls1/amc.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
 http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
@@ -51,6 +55,8 @@ http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
 http://177.91.162.202:8000/play/Gloob/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
 http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/Nick_Jr.gif" group-title="Kids",Nick JR
 http://177.91.162.202:8000/play/NickJr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png" group-title="Kids",Nick JR
