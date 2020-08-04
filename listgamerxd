@@ -295,6 +295,18 @@ http://177.91.162.202:8000/play/PFC5/index.m3u8
 http://177.91.162.202:8000/play/PFC6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.contax.net.au/wp-content/uploads/2019/07/7sportlogo02-resized.jpg" group-title="Movies",Premiere 7
 http://177.91.162.202:8000/play/PFC7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 1
+http://pfsv.io:80/96624250/iptv4k/504
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 2
+http://pfsv.io:80/96624250/iptv4k/505
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 3
+http://pfsv.io:80/96624250/iptv4k/506
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 4
+http://pfsv.io:80/96624250/iptv4k/507
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 5
+http://pfsv.io:80/96624250/iptv4k/508
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 6
+http://pfsv.io:80/96624250/iptv4k/509
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzfjeI0Y6OOMtCmvvXNZiGmq7myFuV4nuuiw&usqp=CAU" group-title="Local",SPORTV 3
 http://177.91.162.202:8000/play/SporTV3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzfjeI0Y6OOMtCmvvXNZiGmq7myFuV4nuuiw&usqp=CAU" group-title="Local",SPORTV 3 op2
