@@ -59,12 +59,20 @@ http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
 http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
 http://177.91.162.202:8000/play/ESPN/index.m3u8
+#EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11545
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/1a/0a/62/1a0a6281c17dc5f196b75ac0c95f42ee.jpg" group-title="Sport",ESPN Extra
 http://177.91.162.202:8000/play/ESPNExtra/index.m3u8
+#EXTINF:-1 group-title="Espn opção 2" tvg-logo="http://z4.vc/TAv",ESPN Extra FHD
+http://psrv.io:80/78167984453/snakeplay/18836
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.ibb.co/ncEZQy/1200px_Logo_espnbrasil.png" group-title="Education",ESPN BR
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL Full_HD H265 2
+http://srv.tvprodigital.net:80/110175/110175/61258
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/08/52/d6/0852d68c9f8a0a20e49d818591861f6f.jpg" group-title="Education",ESPN 2
 http://177.91.162.202:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Espn opção 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61257
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports
 http://177.91.162.202:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports op2
@@ -131,10 +139,14 @@ http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/68118
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
+#EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="http://z4.vc/nWk",Fox Sports FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/255
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2
 http://177.91.162.202:8000/play/FOXSports2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2 op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
+#EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="LINK_LOGO",Fox Sports 2 FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30282
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
