@@ -241,8 +241,8 @@ http://148.63.237.46:8000/play/a008/index.m3u8
 http://77.54.145.209:81/play/a001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV Mais
 https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV UHD
-http://connecttvapp.xyz:80/642cDPfxb4/KL9ppeGWxZ/394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV 4k
+ttp://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9236
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="News",Rádio Jornal
