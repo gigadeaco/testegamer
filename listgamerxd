@@ -257,6 +257,8 @@ http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="General",RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="General",SBT
+http://194.76.186.15:8080/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV TOC
