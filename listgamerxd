@@ -154,7 +154,7 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
 #EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="LINK_LOGO",Fox Sports 2 FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30282
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36969
+http://45.249.9.21:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
 http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
@@ -333,7 +333,7 @@ http://tvaz.top:80/martins/123456/69098
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 FHD
 http://tvaz.top:80/martins/123456/69101
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 1
-http://pfsv.io:80/96624250/iptv4k/504
+http://149.62.177.130:3110
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 2
 http://pfsv.io:80/96624250/iptv4k/505
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 3
@@ -516,7 +516,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18102
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",HOT pleasure
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 1 HD
-http://srvx.io:80/Maciel27/Maciel2020/47395
+http://149.62.177.130:3122
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 10 HD
 http://srvx.io:80/Maciel27/Maciel2020/48139
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 2 HD
