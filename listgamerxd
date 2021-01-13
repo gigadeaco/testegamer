@@ -164,7 +164,7 @@ http://177.91.162.202:8000/play/GNT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/hbo-2-hd-na-net.jpg" group-title="Education",HBO HD
 http://45.249.9.21:106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d9dea8ac4682a3f34fe41bc0f2832a46.png" group-title="Education",HBO family
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36965
+http://201.1.151.74:2083/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Education",HBO MUNDI
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP
@@ -179,6 +179,8 @@ http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36912
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36963
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO 2
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO PLUS
+http://201.1.151.74:2083/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
