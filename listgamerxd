@@ -118,7 +118,7 @@ http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/50748
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
 http://177.91.162.202:8000/play/Megapix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-premium-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYzOWJkMTc5NTI2NzQ3MGQ4ZDhkZmQ1OTdkZjBhZGYucG5n" group-title="Entertainment",TEL PREMIUM
-http://177.91.162.202:8000/play/TCPremium/index.m3u8
+http://201.1.151.74:2083/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="Entertainment",TEL ACTION
 http://177.91.162.202:8000/play/TCAction/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Entertainment",TEL Pipoca
