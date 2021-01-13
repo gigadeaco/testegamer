@@ -202,7 +202,7 @@ http://177.91.162.202:8000/play/VH1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="music",1HDMUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",TopTV
-https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",MU music
 http://185.196.182.10:8000/play/a00e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",TV Max
