@@ -1,335 +1,147 @@
 #EXTM3U
-#EXTINF:-1,11
-http://92.246.85.75:4000/play/a017
-#EXTINF:-1,24 Kitchen HD
-http://92.246.85.75:4000/play/a04o
-#EXTINF:-1,A Bola TV
-http://92.246.85.75:4000/play/a01d
+#EXTINF:-1,A&E
+http://201.1.151.74:2083/play/a04e/index.m3u8
 #EXTINF:-1,AMC
-http://92.246.85.75:4000/play/a080
-#EXTINF:-1,AMC
-http://92.246.85.75:4000/play/a00g
-#EXTINF:-1,AMC HD
-http://92.246.85.75:4000/play/a07z
-#EXTINF:-1,ARTV
-http://92.246.85.75:4000/play/a00j
-#EXTINF:-1,AXN HD
-http://92.246.85.75:4000/play/a03x
-#EXTINF:-1,AXN Movies HD
-http://92.246.85.75:4000/play/a04i
-#EXTINF:-1,AXN White HD
-http://92.246.85.75:4000/play/a04k
-#EXTINF:-1,Afro Music
-http://92.246.85.75:4000/play/a016
-#EXTINF:-1,BBC Entertainment
-http://92.246.85.75:4000/play/a082
-#EXTINF:-1,BBC World News
-http://92.246.85.75:4000/play/a06c
-#EXTINF:-1,BTV HD
-http://92.246.85.75:4000/play/a040
+http://201.1.151.74:2083/play/a05i/index.m3u8
 #EXTINF:-1,Baby TV
-http://92.246.85.75:4000/play/a00c
-#EXTINF:-1,Biggs
-http://92.246.85.75:4000/play/a068
-#EXTINF:-1,Blaze
-http://92.246.85.75:4000/play/a063
-#EXTINF:-1,Bloomberg
-http://92.246.85.75:4000/play/a034
-#EXTINF:-1,CBS Reality
-http://92.246.85.75:4000/play/a015
-#EXTINF:-1,CMTV
-http://92.246.85.75:4000/play/a03e
-#EXTINF:-1,CNN
-http://92.246.85.75:4000/play/a06a
-#EXTINF:-1,Canal 11 HD
-http://92.246.85.75:4000/play/a083
-#EXTINF:-1,Canal NOS
-http://92.246.85.75:4000/play/a08q
-#EXTINF:-1,Canal NOS
-http://92.246.85.75:4000/play/a08p
-#EXTINF:-1,Canal Panda
-http://92.246.85.75:4000/play/a07i
-#EXTINF:-1,Canal Panda
-http://92.246.85.75:4000/play/a022
-#EXTINF:-1,Canal Q
-http://92.246.85.75:4000/play/a035
+http://201.1.151.74:2083/play/a05a/index.m3u8
+#EXTINF:-1,Band News
+http://201.1.151.74:2083/play/a077/index.m3u8
+#EXTINF:-1,Bandeirantes
+http://201.1.151.74:2083/play/a03p/index.m3u8
+#EXTINF:-1,BIS
+http://201.1.151.74:2083/play/a043/index.m3u8
+#EXTINF:-1,Boomerang
+http://201.1.151.74:2083/play/a04g/index.m3u8
+#EXTINF:-1,Canal Brasil
+http://201.1.151.74:2083/play/a057/index.m3u8
 #EXTINF:-1,CanĿªo Nova
-http://92.246.85.75:4000/play/a03d
-#EXTINF:-1,Cartoon Network
-http://92.246.85.75:4000/play/a02v
-#EXTINF:-1,CaĿa e Pesca
-http://92.246.85.75:4000/play/a07u
-#EXTINF:-1,CaĿavision
-http://92.246.85.75:4000/play/a03g
-#EXTINF:-1,Cinemundo
-http://92.246.85.75:4000/play/a00a
-#EXTINF:-1,Crime+Investigation
-http://92.246.85.75:4000/play/a00w
+http://201.1.151.74:2083/play/a04t/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://201.1.151.74:2083/play/a03i/index.m3u8
 #EXTINF:-1,Discovery Channel
-http://92.246.85.75:4000/play/a07m
-#EXTINF:-1,Discovery Channel
-http://92.246.85.75:4000/play/a00x
-#EXTINF:-1,Discovery HD
-http://92.246.85.75:4000/play/a07w
-#EXTINF:-1,Disney Channel
-http://92.246.85.75:4000/play/a07x
-#EXTINF:-1,Disney Channel
-http://92.246.85.75:4000/play/a01a
-#EXTINF:-1,Disney Channel Anima Fest
-http://92.246.85.75:4000/play/a018
-#EXTINF:-1,Disney Junior Kids Party
-http://92.246.85.75:4000/play/a019
-#EXTINF:-1,Disney Jœnior
-http://92.246.85.75:4000/play/a06i
-#EXTINF:-1,E! Entertainment
-http://92.246.85.75:4000/play/a030
-#EXTINF:-1,Eleven 1 HD
-http://92.246.85.75:4000/play/a04p
-#EXTINF:-1,Eleven 1 HD
-http://92.246.85.75:4000/play/a088
-#EXTINF:-1,Eleven 1 HD
-http://92.246.85.75:4000/play/a08b
-#EXTINF:-1,Eleven 2 HD
-http://92.246.85.75:4000/play/a03z
-#EXTINF:-1,Eleven 3
-http://92.246.85.75:4000/play/a031
-#EXTINF:-1,Eleven 4
-http://92.246.85.75:4000/play/a04q
-#EXTINF:-1,Eleven 5
-http://92.246.85.75:4000/play/a04r
-#EXTINF:-1,Eleven 6
-http://92.246.85.75:4000/play/a03c
-#EXTINF:-1,Eleven Sports 1
-http://92.246.85.75:4000/play/a089
-#EXTINF:-1,Eleven Sports 1
-http://92.246.85.75:4000/play/a086
-#EXTINF:-1,Eleven Sports 1
-http://92.246.85.75:4000/play/a087
-#EXTINF:-1,Eleven Sports 1
-http://92.246.85.75:4000/play/a08a
-#EXTINF:-1,Eurochannel
-http://92.246.85.75:4000/play/a00d
-#EXTINF:-1,Euronews
-http://92.246.85.75:4000/play/a06d
-#EXTINF:-1,Eurosport 1
-http://92.246.85.75:4000/play/a009
-#EXTINF:-1,Eurosport 1 HD
-http://92.246.85.75:4000/play/a04l
-#EXTINF:-1,Eurosport 2
-http://92.246.85.75:4000/play/a03a
-#EXTINF:-1,FOX Comedy
-http://92.246.85.75:4000/play/a02x
-#EXTINF:-1,FOX Crime HD
-http://92.246.85.75:4000/play/a04n
-#EXTINF:-1,FOX HD
-http://92.246.85.75:4000/play/a03y
-#EXTINF:-1,FOX Life HD
-http://92.246.85.75:4000/play/a04m
-#EXTINF:-1,FOX Movies
-http://92.246.85.75:4000/play/a062
-#EXTINF:-1,FOX News
-http://92.246.85.75:4000/play/a00z
-#EXTINF:-1,FTV
-http://92.246.85.75:4000/play/a032
-#EXTINF:-1,France 24
-http://92.246.85.75:4000/play/a06e
-#EXTINF:-1,Fuel TV
-http://92.246.85.75:4000/play/a07t
-#EXTINF:-1,Globo
-http://92.246.85.75:4000/play/a074
-#EXTINF:-1,Globo
-http://92.246.85.75:4000/play/a00q
-#EXTINF:-1,Globo Now
-http://92.246.85.75:4000/play/a038
-#EXTINF:-1,HOT
-http://92.246.85.75:4000/play/a06h
-#EXTINF:-1,Histðria
-http://92.246.85.75:4000/play/a079
-#EXTINF:-1,Histðria
-http://92.246.85.75:4000/play/a00b
-#EXTINF:-1,Hollywood
-http://92.246.85.75:4000/play/a078
-#EXTINF:-1,Hollywood
-http://92.246.85.75:4000/play/a00e
-#EXTINF:-1,Jim Jam
-http://92.246.85.75:4000/play/a00n
-#EXTINF:-1,Kombat Sport
-http://92.246.85.75:4000/play/a03i
-#EXTINF:-1,Kuriakos TV
-http://92.246.85.75:4000/play/a03h
-#EXTINF:-1,MCM POP
-http://92.246.85.75:4000/play/a03b
-#EXTINF:-1,MTV Portugal
-http://92.246.85.75:4000/play/a00l
-#EXTINF:-1,Mega Hits
-http://92.246.85.75:4000/play/a05z
-#EXTINF:-1,Mega Hits
-http://92.246.85.75:4000/play/a01r
-#EXTINF:-1,Mezzo
-http://92.246.85.75:4000/play/a066
-#EXTINF:-1,Motorvision
-http://92.246.85.75:4000/play/a081
-#EXTINF:-1,NBA TV
-http://92.246.85.75:4000/play/a00v
-#EXTINF:-1,NHK World Japan
-http://92.246.85.75:4000/play/a01y
-#EXTINF:-1,National Geographic HD
-http://92.246.85.75:4000/play/a03w
-#EXTINF:-1,National Geographic Wild
-http://92.246.85.75:4000/play/a02s
-#EXTINF:-1,Nick Jr.
-http://92.246.85.75:4000/play/a07v
-#EXTINF:-1,Nickelodeon
-http://92.246.85.75:4000/play/a07s
-#EXTINF:-1,Odisseia
-http://92.246.85.75:4000/play/a07a
-#EXTINF:-1,Odisseia
-http://92.246.85.75:4000/play/a00y
-#EXTINF:-1,PFC
-http://92.246.85.75:4000/play/a037
+http://201.1.151.74:2083/play/a05e/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://201.1.151.74:2083/play/a03c/index.m3u8
+#EXTINF:-1,Disney
+http://201.1.151.74:2083/play/a04i/index.m3u8
+#EXTINF:-1,EPTV Campinas
+http://201.1.151.74:2083/play/a039/index.m3u8
+#EXTINF:-1,EPTV Ribeirao Preto
+http://201.1.151.74:2083/play/a038/index.m3u8
+#EXTINF:-1,EPTV Sao Carlos
+http://201.1.151.74:2083/play/a03a/index.m3u8
+#EXTINF:-1,ESPN2
+http://201.1.151.74:2083/play/a03v/index.m3u8
+#EXTINF:-1,Film & Arts
+http://201.1.151.74:2083/play/a045/index.m3u8
+#EXTINF:-1,Fish TV
+http://201.1.151.74:2083/play/a04c/index.m3u8
+#EXTINF:-1,Food Network
+http://201.1.151.74:2083/play/a07p/index.m3u8
+#EXTINF:-1,Food Network
+http://201.1.151.74:2083/play/a051/index.m3u8
+#EXTINF:-1,Fox Life
+http://201.1.151.74:2083/play/a03u/index.m3u8
+#EXTINF:-1,Futura
+http://201.1.151.74:2083/play/a03q/index.m3u8
+#EXTINF:-1,Globo BrasŦlia
+http://201.1.151.74:2083/play/a066/index.m3u8
+#EXTINF:-1,Globo Minas
+http://201.1.151.74:2083/play/a062/index.m3u8
+#EXTINF:-1,Globo Nordeste
+http://201.1.151.74:2083/play/a032/index.m3u8
+#EXTINF:-1,Globo RJ
+http://201.1.151.74:2083/play/a061/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.1.151.74:2083/play/a04d/index.m3u8
+#EXTINF:-1,HBO Plus
+http://201.1.151.74:2083/play/a03w/index.m3u8
+#EXTINF:-1,History 2
+http://201.1.151.74:2083/play/a07l/index.m3u8
+#EXTINF:-1,Inter TV Cabugi
+http://201.1.151.74:2083/play/a035/index.m3u8
+#EXTINF:-1,Lifetime
+http://201.1.151.74:2083/play/a03y/index.m3u8
+#EXTINF:-1,MTV
+http://201.1.151.74:2083/play/a03s/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://201.1.151.74:2083/play/a04m/index.m3u8
+#EXTINF:-1,NHK
+http://201.1.151.74:2083/play/a04q/index.m3u8
+#EXTINF:-1,Nick Jr
+http://201.1.151.74:2083/play/a04j/index.m3u8
+#EXTINF:-1,Play TV
+http://201.1.151.74:2083/play/a03e/index.m3u8
+#EXTINF:-1,Premiere 2
+http://201.1.151.74:2083/play/a078/index.m3u8
+#EXTINF:-1,Premiere 4
+http://201.1.151.74:2083/play/a04s/index.m3u8
+#EXTINF:-1,Premiere 6
+http://201.1.151.74:2083/play/a047/index.m3u8
+#EXTINF:-1,RBI
+http://201.1.151.74:2083/play/a04o/index.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://201.1.151.74:2083/play/a079/index.m3u8
+#EXTINF:-1,RCI
+http://201.1.151.74:2083/play/a040/index.m3u8
+#EXTINF:-1,Rede Amazonica Manaus
+http://201.1.151.74:2083/play/a034/index.m3u8
+#EXTINF:-1,RIT
+http://201.1.151.74:2083/play/a04n/index.m3u8
+#EXTINF:-1,RPC TV Curitiba
+http://201.1.151.74:2083/play/a037/index.m3u8
+#EXTINF:-1,SBT
+http://201.1.151.74:2083/play/a07a/index.m3u8
+#EXTINF:-1,SIC Internacional
+http://201.1.151.74:2083/play/a03j/index.m3u8
+#EXTINF:-1,SporTV
+http://201.1.151.74:2083/play/a052/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://201.1.151.74:2083/play/a03m/index.m3u8
+#EXTINF:-1,TBS
+http://201.1.151.74:2083/play/a04f/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://201.1.151.74:2083/play/a04a/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://201.1.151.74:2083/play/a055/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://201.1.151.74:2083/play/a07q/index.m3u8
+#EXTINF:-1,The History Channel
+http://201.1.151.74:2083/play/a03d/index.m3u8
+#EXTINF:-1,Tooncast
+http://201.1.151.74:2083/play/a05c/index.m3u8
+#EXTINF:-1,TruTV
+http://201.1.151.74:2083/play/a059/index.m3u8
+#EXTINF:-1,TruTV
+http://201.1.151.74:2083/play/a07r/index.m3u8
+#EXTINF:-1,TV Anhanguera GoiÐnia
+http://201.1.151.74:2083/play/a063/index.m3u8
+#EXTINF:-1,TV Bahia
+http://201.1.151.74:2083/play/a031/index.m3u8
+#EXTINF:-1,TV Centro America Cuiaba
+http://201.1.151.74:2083/play/a036/index.m3u8
+#EXTINF:-1,TV Liberal Belem
+http://201.1.151.74:2083/play/a033/index.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://201.1.151.74:2083/play/a03r/index.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://201.1.151.74:2083/play/a065/index.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://201.1.151.74:2083/play/a064/index.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://201.1.151.74:2083/play/a03o/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://201.1.151.74:2083/play/a03b/index.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://201.1.151.74:2083/play/a030/index.m3u8
+#EXTINF:-1,Viva
+http://201.1.151.74:2083/play/a03t/index.m3u8
+#EXTINF:-1,Warner Channel
+http://201.1.151.74:2083/play/a03z/index.m3u8
 #EXTINF:-1,Playboy TV
-http://92.246.85.75:4000/play/a039
-#EXTINF:-1,Porto Canal
-http://92.246.85.75:4000/play/a02u
-#EXTINF:-1,RTP .frica
-http://92.246.85.75:4000/play/a033
-#EXTINF:-1,RTP 1 HD
-http://92.246.85.75:4000/play/a07c
-#EXTINF:-1,RTP 1 HD
-http://92.246.85.75:4000/play/a08k
-#EXTINF:-1,RTP 2 HD
-http://92.246.85.75:4000/play/a07d
-#EXTINF:-1,RTP 3
-http://92.246.85.75:4000/play/a07e
-#EXTINF:-1,RTP AĿores
-http://92.246.85.75:4000/play/a07f
-#EXTINF:-1,RTP Madeira
-http://92.246.85.75:4000/play/a07g
-#EXTINF:-1,RTP Madeira
-http://92.246.85.75:4000/play/a00h
-#EXTINF:-1,RTP Memðria
-http://92.246.85.75:4000/play/a08s
-#EXTINF:-1,RTP Memðria
-http://92.246.85.75:4000/play/a08t
-#EXTINF:-1,RTP Memðria
-http://92.246.85.75:4000/play/a02w
-#EXTINF:-1,RTP1
-http://92.246.85.75:4000/play/a002
-#EXTINF:-1,RTP2
-http://92.246.85.75:4000/play/a003
-#EXTINF:-1,RTP3
-http://92.246.85.75:4000/play/a006
-#EXTINF:-1,SBSR
-http://92.246.85.75:4000/play/a05t
-#EXTINF:-1,SIC
-http://92.246.85.75:4000/play/a00s
-#EXTINF:-1,SIC Caras
-http://92.246.85.75:4000/play/a02z
-#EXTINF:-1,SIC HD
-http://92.246.85.75:4000/play/a07n
-#EXTINF:-1,SIC K
-http://92.246.85.75:4000/play/a07j
-#EXTINF:-1,SIC K
-http://92.246.85.75:4000/play/a00k
-#EXTINF:-1,SIC Mulher
-http://92.246.85.75:4000/play/a060
-#EXTINF:-1,SIC NotŦcias
-http://92.246.85.75:4000/play/a07h
-#EXTINF:-1,SIC NotŦcias
-http://92.246.85.75:4000/play/a00t
-#EXTINF:-1,SIC Radical
-http://92.246.85.75:4000/play/a02t
-#EXTINF:-1,SKY News
-http://92.246.85.75:4000/play/a06b
-#EXTINF:-1,SPORT TV +
-http://92.246.85.75:4000/play/a064
-#EXTINF:-1,SPORT TV 1
-http://92.246.85.75:4000/play/a01x
-#EXTINF:-1,SPORT TV 1 HD
-http://92.246.85.75:4000/play/a03t
-#EXTINF:-1,SPORT TV 2
-http://92.246.85.75:4000/play/a00u
-#EXTINF:-1,SPORT TV 2 HD
-http://92.246.85.75:4000/play/a03u
-#EXTINF:-1,SPORT TV 3
-http://92.246.85.75:4000/play/a010
-#EXTINF:-1,SPORT TV 3 HD
-http://92.246.85.75:4000/play/a03v
-#EXTINF:-1,SPORT TV 4
-http://92.246.85.75:4000/play/a00m
-#EXTINF:-1,SPORT TV 5
-http://92.246.85.75:4000/play/a06f
-#EXTINF:-1,Smooth FM
-http://92.246.85.75:4000/play/a05q
-#EXTINF:-1,Smooth FM
-http://92.246.85.75:4000/play/a01n
-#EXTINF:-1,Sport TV 1
-http://92.246.85.75:4000/play/a07b
-#EXTINF:-1,Sport TV 2
-http://92.246.85.75:4000/play/a072
-#EXTINF:-1,Sport TV 3
-http://92.246.85.75:4000/play/a076
-#EXTINF:-1,Sport TV 4
-http://92.246.85.75:4000/play/a077
-#EXTINF:-1,Sporting TV
-http://92.246.85.75:4000/play/a06j
-#EXTINF:-1,SuperFM
-http://92.246.85.75:4000/play/a05v
-#EXTINF:-1,SyFy
-http://92.246.85.75:4000/play/a02y
-#EXTINF:-1,TLC
-http://92.246.85.75:4000/play/a061
-#EXTINF:-1,TSF
-http://92.246.85.75:4000/play/a07p
-#EXTINF:-1,TV Cine Action
-http://92.246.85.75:4000/play/a00o
-#EXTINF:-1,TV Cine Edition
-http://92.246.85.75:4000/play/a00f
-#EXTINF:-1,TV Cine Emotion
-http://92.246.85.75:4000/play/a013
-#EXTINF:-1,TV Cine Top
-http://92.246.85.75:4000/play/a012
-#EXTINF:-1,TV Galicia
-http://92.246.85.75:4000/play/a036
-#EXTINF:-1,TV Record
-http://92.246.85.75:4000/play/a073
-#EXTINF:-1,TV Record
-http://92.246.85.75:4000/play/a004
-#EXTINF:-1,TV5 Monde
-http://92.246.85.75:4000/play/a06k
-#EXTINF:-1,TVCine ACTION HD
-http://92.246.85.75:4000/play/a07q
-#EXTINF:-1,TVCine TOP HD
-http://92.246.85.75:4000/play/a07y
-#EXTINF:-1,TVE 24H
-http://92.246.85.75:4000/play/a069
-#EXTINF:-1,TVEi
-http://92.246.85.75:4000/play/a067
-#EXTINF:-1,TVI
-http://92.246.85.75:4000/play/a01w
-#EXTINF:-1,TVI 24
-http://92.246.85.75:4000/play/a075
-#EXTINF:-1,TVI FicĿªo
-http://92.246.85.75:4000/play/a07k
-#EXTINF:-1,TVI FicĿªo
-http://92.246.85.75:4000/play/a08l
-#EXTINF:-1,TVI FicĿªo
-http://92.246.85.75:4000/play/a01c
-#EXTINF:-1,TVI HD
-http://92.246.85.75:4000/play/a07o
-#EXTINF:-1,TVI24
-http://92.246.85.75:4000/play/a00p
-#EXTINF:-1,Toros TV
-http://92.246.85.75:4000/play/a06g
-#EXTINF:-1,Trace Toca
-http://92.246.85.75:4000/play/a07r
-#EXTINF:-1,Trace Urban
-http://92.246.85.75:4000/play/a01b
-#EXTINF:-1,Travel Channel HD
-http://92.246.85.75:4000/play/a04j
-#EXTINF:-1,VH1
-http://92.246.85.75:4000/play/a065
-#EXTINF:-1,Venus
-http://92.246.85.75:4000/play/a011
-#EXTINF:-1,ZAP Viva HD
-http://92.246.85.75:4000/play/a084
+http://201.1.151.74:2083/play/a048/index.m3u8
+#EXTINF:-1,Sextreme
+http://201.1.151.74:2083/play/a046/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://201.1.151.74:2083/play/a049/index.m3u8
