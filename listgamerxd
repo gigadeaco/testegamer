@@ -154,7 +154,7 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
 #EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="LINK_LOGO",Fox Sports 2 FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30282
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
-http://45.249.9.21:8000/play/a087/index.m3u8
+https://cdn4.canais.ink/hls1/fx.m3u8?expires=1582535296&token=36961228debc9c74653b2a3046729874
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
  http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
