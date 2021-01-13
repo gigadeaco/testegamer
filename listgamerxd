@@ -250,7 +250,7 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",TEL PREM 
-http://toopnet.dydns.site:2082/wilson/wilson/47434
+http://201.1.151.74:2083/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT interior
 http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT PERNAMB
