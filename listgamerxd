@@ -5,8 +5,8 @@ http://177.91.162.202:8000/play/Multishow/index.m3u8
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro +
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="Hobby",Arte1
+http://177.91.162.202:8000/play/Arte1/index.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
 http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
@@ -116,7 +116,7 @@ http://177.91.162.202:8000/play/FOX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox op2
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36972
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox life HD
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/50748
+http://177.91.162.202:8000/play/FOXLife/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
 http://177.91.162.202:8000/play/Megapix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-premium-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYzOWJkMTc5NTI2NzQ3MGQ4ZDhkZmQ1OTdkZjBhZGYucG5n" group-title="Entertainment",TEL PREMIUM
@@ -164,25 +164,26 @@ http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Local",GNT
 http://177.91.162.202:8000/play/GNT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/hbo-2-hd-na-net.jpg" group-title="Education",HBO HD
-http://45.249.9.21:106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d9dea8ac4682a3f34fe41bc0f2832a46.png" group-title="Education",HBO family
+hhttp://177.91.162.202:8000/play/a04b/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d9dea8ac4682a3f34fe41bc0f2832a46.png" group-title="Education",HBO family
 http://201.1.151.74:2083/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Education",HBO MUNDI
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36913
+http://177.91.162.202:8000/play/HBOMUNDI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP op2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
+http://177.91.162.202:8000/play/HBOPOP/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO family op2
+http://177.91.162.202:8000/play/HBOFamily/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/93aadc0910348fcf43def9484e5f0fc4.png" group-title="Education",HBO SIGNATURE
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36962
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Education",HBO Xtreme
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36912
+http://177.91.162.202:8000/play/HBOXTREME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/9841b5a4f002c448b04f6ec6138d6533.png" group-title="Education",HBO HD+
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36963
+http://177.91.162.202:8000/play/HBOmais/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO 2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36966
+http://177.91.162.202:8000/play/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO PLUS
 http://201.1.151.74:2083/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO SIGNAT
+http://177.91.162.202:8000/play/HBOSignature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
