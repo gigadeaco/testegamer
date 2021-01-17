@@ -36,7 +36,7 @@ https://proxyts.canais.gratis:8443/hls1/amc.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
-http://45.4.85.130:8000/play/a0al/index.m3u8
+http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
 http://177.91.162.202:8000/play/DiscoveryTurbo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",COM Brasil
