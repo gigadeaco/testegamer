@@ -32,7 +32,7 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Cartoon Network
 http://177.91.162.202:8000/play/Cartoon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
-https://proxyts.canais.gratis:8443/hls1/amc.m3u8
+http://187.120.222.12:8000/play/Tooncast/index.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
@@ -117,18 +117,30 @@ http://177.91.162.202:8000/play/FOX/index.m3u8
 http://177.91.162.202:8000/play/FOXLife/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
 http://177.91.162.202:8000/play/Megapix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX op2
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="Entertainment",TEL PREMIUM
 http://201.1.151.74:2083/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="Entertainment",TEL PREMIUM op2
 http://177.91.162.202:8000/play/TCPremium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="Entertainment",TEL ACTION
 http://177.91.162.202:8000/play/TCAction/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="Entertainment",TEL ACTION op2
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Entertainment",TEL Pipoca
 http://177.91.162.202:8000/play/TCPipoca/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Entertainment",TEL Pipoca op2
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="Entertainment",TEL FUN
 http://177.91.162.202:8000/play/TCFun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="Entertainment",TEL FUN op2
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png",TEL TOUCH
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png",TEL TOUCH op2
+hhttp://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png",TEL CULT
+http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Entertainment",Fox Premium
 http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
@@ -159,6 +171,8 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30282
 http://177.91.162.202:8000/play/FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
  http://177.91.162.202:8000/play/Space/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE op2
+ http://187.120.222.12:8000/play/SpaceLEG/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
 http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Local",GNT
@@ -332,16 +346,15 @@ http://177.91.162.202:8000/play/PFC5/index.m3u8
 http://177.91.162.202:8000/play/PFC6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.contax.net.au/wp-content/uploads/2019/07/7sportlogo02-resized.jpg" group-title="Movies",Premiere 7
 http://177.91.162.202:8000/play/PFC7/index.m3u8
-#EXTINF:-1 group-title="Premiere Opcão 3" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES [4K]
-http://psrv.io:80/78167984453/snakeplay/26184
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 FHD
-http://tvaz.top:80/martins/123456/69086
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 FHD
+#EXTINF:-1 group-title="Premiere Opcão 3" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 HD
 http://tvaz.top:80/martins/123456/69089
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
 http://tvaz.top:80/martins/123456/69092
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 FHD
-http://tvaz.top:80/martins/123456/69095
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 6 FHD
 http://tvaz.top:80/martins/123456/69098
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 FHD
