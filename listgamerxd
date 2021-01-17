@@ -314,6 +314,10 @@ http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FheNr9FaZ8o)r(TOqkzw)a(yJA-Sw)p(d(lCo)k(oxE)m(IA7b8MK4SkvqkeGRfgUSPg)n(a(x66bGg)s(oBw)'a(WePXYA)s(ayw)))s(s(x8E)b(UZYBQCCOIXDpAc8L34JabbY9Uic8qXiDP9HL9ICKVwRShvjUJo1x2bvu7genj1M8XOsj6FHY6bj6rrKxiw)'s(kNA)b(jvyfxqQodv55swnsG0bC8gMYsH3rM8t6m-4uZn1k05FrMXKMmzsEe3-dt7rTBK_ozm81Q9-rpXYyW2xELquC5W88UGREbI_dLf-XKEoT)'s(gyw)b(7_4_KmlZ))m(0))/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Local",TV Carioca
 https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC
+http://177.91.162.202:8000/play/PFC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fNF8xNTg4MTQwMDU4XzA5NQ/screen-4.jpg?fakeurl=1&type=.jpg" group-title="General",PFC 2
+http://177.91.162.202:8000/play/PFC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://http2.mlstatic.com/premiere-play-1-ano-de-acesso-D_NQ_NP_475321-MLB20772231216_062016-F.jpg" group-title="Local",Premiere 3
 http://177.91.162.202:8000/play/PFC3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fMl8xNTg4MTQwMDU4XzAxMQ/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Local",Premiere 4
@@ -365,16 +369,12 @@ http://brasiltv2020.live:80/deyamedeiros/121148/30191
 http://177.91.162.202:8000/play/SporTV2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2 op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC
-http://177.91.162.202:8000/play/PFC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC op2
 http://canaishd.servidor.tv:8080/jessica1/12345/1447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/537
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC FHD op2
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fNF8xNTg4MTQwMDU4XzA5NQ/screen-4.jpg?fakeurl=1&type=.jpg" group-title="General",PFC 2
-http://177.91.162.202:8000/play/PFC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png" group-title="Local",AMC
 http://177.91.162.202:8000/play/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",DAZN
