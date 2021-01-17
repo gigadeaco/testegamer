@@ -59,7 +59,7 @@ http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/Nick_Jr.gif" group-title="Kids",Nick JR
 http://177.91.162.202:8000/play/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png" group-title="Kids",NATGEO KIDS
 http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.canalsp.com.br/wp-content/uploads/2019/07/logotipo.png" group-title="Sport",Canal São Paulo
 http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
