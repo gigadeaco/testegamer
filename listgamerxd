@@ -33,8 +33,8 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 http://177.91.162.202:8000/play/Cartoon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
 http://187.120.222.12:8000/play/Tooncast/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC op2
+http://177.91.162.202:8000/play/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
 http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
@@ -148,11 +148,11 @@ http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 1
 http://177.91.162.202:8000/play/BBB1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 2
-http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
+http://177.91.162.202:8000/play/BBB2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 3
-http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
+http://177.91.162.202:8000/play/BBB3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 4
-http://177.91.162.202:8000/play/HBOPOP/index.m3u8
+http://177.91.162.202:8000/play/TCPremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 5
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
@@ -172,7 +172,7 @@ http://177.91.162.202:8000/play/FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
  http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE op2
- http://187.120.222.12:8000/play/SpaceLEG/index.m3u8 
+ http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
 http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Local",GNT
