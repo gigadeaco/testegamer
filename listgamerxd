@@ -157,6 +157,8 @@ http://177.91.162.202:8000/play/TCPremium/index.m3u8
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 6
 http://load.kudaplay.tv/aovivo/FHD_MAX_PRIME/video.m3u8?token=0cad2eeeef828cce252ea588f3e623be
+#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 7
+http://load.kudaplay.tv/aovivo/FHD_MEGAPIX/video.m3u8?token=0cad2eeeef828cce252ea588f3e623be
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports op2
