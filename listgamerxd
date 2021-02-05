@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1uuiA4dsk4ya6t0iXTM50EysLceKkWs4IHw&usqp=CAU" group-title="",Multishow
 http://177.91.162.202:8000/play/Multishow/index.m3u8
 #EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",Multshow FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/3
+http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="Hobby",Arte1
