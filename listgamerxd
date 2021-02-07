@@ -5,8 +5,10 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50857.mpegts
 http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Mais
+http://tv.minhalista.me/live/Karolayne/karolayne/76250.mpegts8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="Hobby",Arte1
-http://177.91.162.202:8000/play/Arte1/index.m3u8
+http://tv.minhalista.me/live/Karolayne/karolayne/63255.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
 http://tv.minhalista.me/live/Karolayne/karolayne/68528.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal Rural
@@ -14,9 +16,9 @@ http://tv.minhalista.me/live/Karolayne/karolayne/63217.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
 http://tv.minhalista.me/live/Karolayne/karolayne/40073.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.hdicon.com/wp-content/uploads/2011/03/Animal_Planet_2008.png" group-title="Hobby",Animal Planet
-http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
+http://tv.minhalista.me/live/Karolayne/karolayne/50641.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E
-http://177.91.162.202:8000/play/AeE/index.m3u8
+http://tv.minhalista.me/live/Karolayne/karolayne/36929.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E op2
 http://177.91.162.202:8000/play/AeE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
@@ -28,7 +30,7 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50938.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-mpYRn5dfNhc/WiLAltrofsI/AAAAAAABBx8/UaZMgctSe4UMLTjUN8gy7QeIDAxWkyi2gCPcBGAYYCw/s640/Canal%2BBIS-2.png" group-title="MUSIC",BIS
 http://177.91.162.202:8000/play/BIS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_axn-hd_m.png" group-title="General",AXN
-http://177.91.162.202:8000/play/AXN/index.m3u8
+http://tv.minhalista.me/live/Karolayne/karolayne/36991.mpegts
 #EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova HD
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Cartoon Network
@@ -36,7 +38,7 @@ http://tv.minhalista.me/live/Karolayne/karolayne/36927.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
 http://tv.minhalista.me/live/Karolayne/karolayne/63647.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC op2
-http://177.91.162.202:8000/play/AMC/index.m3u8
+http://tv.minhalista.me/live/Karolayne/karolayne/50639.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
 http://tv.minhalista.me/live/Karolayne/karolayne/50704.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
