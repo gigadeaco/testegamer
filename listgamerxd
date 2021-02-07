@@ -72,23 +72,23 @@ http://tv.minhalista.me/live/Karolayne/karolayne/63783.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
 http://tv.minhalista.me/live/Karolayne/karolayne/36977.mpegts
 #EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN FHD H265
-http://srv.tvprodigital.net:80/110175/110175/11545
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/71920.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/1a/0a/62/1a0a6281c17dc5f196b75ac0c95f42ee.jpg" group-title="Sport",ESPN Extra
 http://tv.minhalista.me/live/Karolayne/karolayne/42910.mpegts
 #EXTINF:-1 group-title="Espn opção 2" tvg-logo="http://z4.vc/TAv",ESPN Extra FHD
-http://psrv.io:80/78167984453/snakeplay/18836
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/71916.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.ibb.co/ncEZQy/1200px_Logo_espnbrasil.png" group-title="Education",ESPN BR
 http://tv.minhalista.me/live/Karolayne/karolayne/50736.mpegts
 #EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL Full_HD H265 2
-http://srv.tvprodigital.net:80/110175/110175/61258
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/71912.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/08/52/d6/0852d68c9f8a0a20e49d818591861f6f.jpg" group-title="Education",ESPN 2
 http://tv.minhalista.me/live/Karolayne/karolayne/36976.mpegts
 #EXTINF:-1 group-title="Espn opção 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 Full_HD H265 ²
-http://srv.tvprodigital.net:80/110175/110175/61257
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/71908.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports
 http://tv.minhalista.me/live/Karolayne/karolayne/50656.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports op2
-http://tv.minhalista.me/live/Karolayne/karolayne/36989.mpegts
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/90607.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.vippng.com/png/full/193-1937667_european-cinema-tv-channel-eurochannel-is-launching-logo.png" group-title="Sport",EURO CHANNEL
 http://177.91.162.202:8000/play/Eurochannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/12/sinal-aberto-do-canal-combate-nas-operadoras-oi-tv-sky-e-vivo-tv.jpg" group-title="Sport",Combate
@@ -162,15 +162,15 @@ http://177.91.162.202:8000/play/TCPremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 5
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 6
-http://load.kudaplay.tv/aovivo/FHD_MAX_PRIME/video.m3u8?token=0cad2eeeef828cce252ea588f3e623be
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/71769.ts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 7
-http://load.kudaplay.tv/aovivo/FHD_MEGAPIX/video.m3u8?token=0cad2eeeef828cce252ea588f3e623be
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports op2
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
 #EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="http://z4.vc/nWk",Fox Sports FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/255
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/90511.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2
 http://177.91.162.202:8000/play/FOXSports2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2 op2
@@ -389,13 +389,13 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2037
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORT TV
 http://177.91.162.202:8000/play/SporTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORTV op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/90331.ts
 #EXTINF:-1 group-title="SporTv opção 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV FHD H265¹
 http://tv.minhalista.me/live/Karolayne/karolayne/63095.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2
 http://tv.minhalista.me/live/Karolayne/karolayne/51051.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2 op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2036
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/90337.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC op2
 http://canaishd.servidor.tv:8080/jessica1/12345/1447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC FHD
