@@ -152,9 +152,9 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50750.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
 http://tv.minhalista.me/live/Karolayne/karolayne/50751.mpegts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 1
-https://origin.canaismax.com/live/bbb04hd/video.m3u8?md5=5AQi7-2MCVpAuEgxvOiOaA&expires=1579722209
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 2
-http://177.91.162.202:8000/play/BBB2/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 3
 http://177.91.162.202:8000/play/BBB3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 4
@@ -505,31 +505,31 @@ http://150.161.93.220/hls/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_playboy_m.png" group-title="adult",PLAY
 http://192.99.148.73:8080/live/play/play/90.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="adult",Venus HD
-http://connecttvapp.xyz:80/642cDPfxb4/KL9ppeGWxZ/225
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="adult",Hustler TV
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18095
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE gold
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349174
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE gold
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9578
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18121
+hhttp://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/350119
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS 2
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7577
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Reality Kings
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",sextreme
-http://187.120.222.12:8000/play/Sextreme/index.m3u8
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349182
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",HOT
-http://185.236.229.2:8000/play/a00x/index.m3u8
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",SEXY HOT
-http://201.1.151.74:2083/play/a049/index.m3u8
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349433
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",SEXY HOT FHD
 http://freshonyx.top:8080/Marcio1/Marcio1/98372
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hustler BLUE
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hustler BLUE op2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9664
+http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hot club
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9615
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hot club 2
