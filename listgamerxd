@@ -152,7 +152,7 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50750.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
 http://tv.minhalista.me/live/Karolayne/karolayne/50751.mpegts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 1
-http://psrv.io:80/9089247/coreurl.me/27861
+https://origin.canaismax.com/live/bbb04hd/video.m3u8?md5=5AQi7-2MCVpAuEgxvOiOaA&expires=1579722209
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 2
 http://177.91.162.202:8000/play/BBB2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 3
