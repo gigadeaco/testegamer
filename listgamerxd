@@ -509,7 +509,7 @@ http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="adult",Hustler TV
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18095
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE
-http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349174
+http://95.158.191.126:9981/play/ch010/index.m3u8
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE gold
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9578
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS
@@ -517,7 +517,7 @@ hhttp://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/350119
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS 2
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7577
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Reality Kings
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
+http://82.197.212.210:9001/play/a0zk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",sextreme
 http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349182
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",HOT
@@ -548,10 +548,10 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18101
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18102
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",HOT pleasure
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 1 HD
-http://201.1.151.74:2083/play/a061/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 10 HD
-http://92.246.85.75:4000/play/a01d
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",F1 HD
+http://194.76.186.59:8000/play/a00y
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",NICK HD 2
+http://179.51.168.13:9000/play/a058
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 2 HD
 http://srvx.io:80/Maciel27/Maciel2020/47396
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 3 HD
