@@ -358,10 +358,11 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50986.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.contax.net.au/wp-content/uploads/2019/07/7sportlogo02-resized.jpg" group-title="Movies",Premiere 7
 http://tv.minhalista.me/live/Karolayne/karolayne/50987.mpegts
 #EXTINF:-1 group-title="Premiere Opcão 3" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72265.ts
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 HD
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72263.ts
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 HD
-http://tvaz.top:80/martins/123456/69089
+http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72266.ts
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
 http://tvaz.top:80/martins/123456/69092
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 HD
