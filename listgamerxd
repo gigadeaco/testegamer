@@ -231,8 +231,8 @@ http://tv.minhalista.me/live/Karolayne/karolayne/68119.mpegts
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",TopTV
 http://tv.minhalista.me/live/Karolayne/karolayne/76173.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",TopTV2
-http://tv.minhalista.me/live/Karolayne/karolayne/68120.mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",MU music
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",VH1
