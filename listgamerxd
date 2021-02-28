@@ -367,8 +367,12 @@ http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72263.ts
 http://187.32.214.221:8002/play/a0es/index.m3u8
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 HD
 http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72266.ts
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 op2 HD
+http://187.32.214.221:8003/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
 http://tvaz.top:80/martins/123456/69092
+#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 op2 HD
+http://187.32.214.221:8003/play/a022/index.m3u8
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
 #EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 op2 HD
@@ -514,7 +518,7 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/8OrN6Gs.png" group-title="Education",TVU Recife
 http://150.161.93.220/hls/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_playboy_m.png" group-title="adult",PLAY
-http://92.190.193.123:8500/play/a01x
+http://187.32.214.221:8002/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="adult",Venus HD
 http://dnsnoahtv.cmsppv.life:80/francisco321/francisco321/349183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="adult",Hustler TV
