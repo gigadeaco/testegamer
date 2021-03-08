@@ -162,11 +162,11 @@ http://tv.minhalista.me/live/Karolayne/karolayne/50750.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
 http://tv.minhalista.me/live/Karolayne/karolayne/50751.mpegts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 1
-http://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/89719.ts
+http://b5.vc:80/live/amanda.iptv/a1aw5s/89719.ts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 2
-http://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19217
+http://b5.vc:80/live/amanda.iptv/a1aw5s/93500.ts
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 3
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyZoti4/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyZoti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyMDU5MTYsImV4cCI6MTYwOTIxNjcxNn0.8VyFE0XWALrtVPHF5shh_qdT3-qT1W_uj_A03ZR4LHk
+http://lista.lorddark.club:80/5247/5247/19217https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyZoti4/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyZoti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyMDU5MTYsImV4cCI6MTYwOTIxNjcxNn0.8VyFE0XWALrtVPHF5shh_qdT3-qT1W_uj_A03ZR4LHk
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 4
 http://rec2.distv.net:80/guiomar/123456/148
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 5
