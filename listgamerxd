@@ -361,6 +361,8 @@ http://tv.minhalista.me/live/Karolayne/karolayne/63093.mpegts
 http://tv.minhalista.me/live/Karolayne/karolayne/50953.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://http2.mlstatic.com/premiere-play-1-ano-de-acesso-D_NQ_NP_475321-MLB20772231216_062016-F.jpg" group-title="Local",Premiere 3
 http://tv.minhalista.me/live/Karolayne/karolayne/50966.mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://http2.mlstatic.com/premiere-play-1-ano-de-acesso-D_NQ_NP_475321-MLB20772231216_062016-F.jpg" group-title="Local",Premiere 3 op 2
+http://152.89.62.105:8880/ff3conn102/jk837mfa73/2456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fMl8xNTg4MTQwMDU4XzAxMQ/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Local",Premiere 4
 http://tv.minhalista.me/live/Karolayne/karolayne/50976.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fM18xNTg4MTQwMDU4XzA3Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="Local",Premiere 5
