@@ -251,8 +251,8 @@ http://tv.minhalista.me/live/Karolayne/karolayne/36900.mpegts
 http://tv.minhalista.me/live/Karolayne/karolayne/63627.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",TV TEM
 http://tv.minhalista.me/live/Karolayne/karolayne/37030.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",TV GLOB
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",TV T 2
+https://wbeo5ubp2y.singularcdn.net.br/TV_TEM_HD_PFZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", CANAL BRASIL
 http://tv.minhalista.me/live/Karolayne/karolayne/63636.mpegts
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", VIVA
@@ -298,13 +298,13 @@ http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/768px-SBT_logo.svg.png" group-title="General",SBT 
 http://tv.minhalista.me/live/Karolayne/karolayne/36945.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT interior
-http://tv.minhalista.me/live/Karolayne/karolayne/42912.mpegts
+https://origin-02.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT PERNAMB
 http://tv.minhalista.me/live/Karolayne/karolayne/41371.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="General",RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="General",SBT
-http://194.76.186.15:8080/play/a00s/index.m3u8
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w1558985885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV
 http://tv.minhalista.me/live/Karolayne/karolayne/36946.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV TOC
