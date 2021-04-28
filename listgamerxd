@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51051.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51052.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/SAxzLi9.png",SPORTV 3 HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51053.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/SAxzLi9.png",SPORTV 3 [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51054.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51055.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD [Alternativo]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63095.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51056.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV [ALT]
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT
 http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37035.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD
