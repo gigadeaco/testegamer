@@ -1,30 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1uuiA4dsk4ya6t0iXTM50EysLceKkWs4IHw&usqp=CAU" group-title="",Multishow
-http://tv.minhalista.me/live/Karolayne/karolayne/50857.mpegts
-#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",Multshow FHD
-http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Mais
-http://tv.minhalista.me/live/Karolayne/karolayne/76250.mpegts8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="Hobby",Arte1
-http://tv.minhalista.me/live/Karolayne/karolayne/63637.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
-http://tv.minhalista.me/live/Karolayne/karolayne/68528.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal Rural
-http://tv.minhalista.me/live/Karolayne/karolayne/63217.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
-http://tv.minhalista.me/live/Karolayne/karolayne/40073.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.hdicon.com/wp-content/uploads/2011/03/Animal_Planet_2008.png" group-title="Hobby",Animal Planet
-http://tv.minhalista.me/live/Karolayne/karolayne/36992.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E
-http://tv.minhalista.me/live/Karolayne/karolayne/36929.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E op2
-http://177.91.162.202:8000/play/AeE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://media.gazetadopovo.com.br/2017/11/df2fac8d93b3df97ea22a8f03dd607ea-gpLarge.png" group-title="General",DOG TV
-http://tv.minhalista.me/live/Karolayne/karolayne/63767.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37035.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36934.mpegts
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD LEG
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/56880.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51119.mpegts
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT LEG
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/56881.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT SERIES HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51121.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT SERIES [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51122.mpegts
+#EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT SERIES | Dual Áudio
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63253.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37034.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36933.mpegts
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries HD LEG
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/56890.mpegts
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries LEG
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/56891.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51120.mpegts
+#EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT | Dual Áudio
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63260.mpegts
 #EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://image.roku.com/developer_channels/prod/c80b4899af083b4cbeec5acbddae68086e0df5ee4301b3a2719bf40a5935aaff.png" group-title="filmes",Paramont
 http://tv.minhalista.me/live/Karolayne/karolayne/36953.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-mpYRn5dfNhc/WiLAltrofsI/AAAAAAABBx8/UaZMgctSe4UMLTjUN8gy7QeIDAxWkyi2gCPcBGAYYCw/s640/Canal%2BBIS-2.png" group-title="MUSIC",BIS
