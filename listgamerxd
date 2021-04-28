@@ -14,6 +14,19 @@ http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63095.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV [ALT]
 http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51056.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63094.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37256.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37044.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2 HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36943.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/SAxzLi9.png",SporTV 3
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37006.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/SAxzLi9.png",SporTV 3 HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36942.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37255.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT
 http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37035.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD
@@ -42,42 +55,50 @@ http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/56891.mpegts
 http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/51120.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT | Dual Áudio
 http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63260.mpegts
-#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://image.roku.com/developer_channels/prod/c80b4899af083b4cbeec5acbddae68086e0df5ee4301b3a2719bf40a5935aaff.png" group-title="filmes",Paramont
-http://tv.minhalista.me/live/Karolayne/karolayne/36953.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-mpYRn5dfNhc/WiLAltrofsI/AAAAAAABBx8/UaZMgctSe4UMLTjUN8gy7QeIDAxWkyi2gCPcBGAYYCw/s640/Canal%2BBIS-2.png" group-title="MUSIC",BIS
-http://tv.minhalista.me/live/Karolayne/karolayne/36988.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_axn-hd_m.png" group-title="General",AXN
-http://tv.minhalista.me/live/Karolayne/karolayne/36991.mpegts
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova HD
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Cartoon Network
-http://tv.minhalista.me/live/Karolayne/karolayne/36927.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
-http://tv.minhalista.me/live/Karolayne/karolayne/63647.mpegts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC op2
-http://tv.minhalista.me/live/Karolayne/karolayne/50639.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
-http://tv.minhalista.me/live/Karolayne/karolayne/50704.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
-http://tv.minhalista.me/live/Karolayne/karolayne/50710.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",POLISHOP
-http://tv.minhalista.me/live/Karolayne/karolayne/61690.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/lVXlnL6.png" group-title="Documentary",Discovery
-http://tv.minhalista.me/live/Karolayne/karolayne/50691.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",Discovery Kids
-http://tv.minhalista.me/live/Karolayne/karolayne/50706.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" group-title="Kids",Disney XD
-http://tv.minhalista.me/live/Karolayne/karolayne/50717.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest/scale-to-width-down/250?cb=20200705204322" group-title="Kids",TV Ratimbum
-http://tv.minhalista.me/live/Karolayne/karolayne/63786.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" group-title="Kids",Disney JR
-http://tv.minhalista.me/live/Karolayne/karolayne/50715.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://rd1.com.br/wp-content/uploads/2013/02/Disney-Channel-620x477.png" group-title="Kids",Disney Channel
-http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-vF2FdVy6KZA/VvmkzUBGoCI/AAAAAAAApwI/kT6DS3u03nMfOK37GtWqDJYJdyR6ELS9Q/s400/Canal%2BGloob.png" group-title="Kids",Gloob
-http://tv.minhalista.me/live/Karolayne/karolayne/50773.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
-http://tv.minhalista.me/live/Karolayne/karolayne/36907.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",Esporte Interativo HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/61879.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",Ei Plus 01 (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/54703.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 01 (P)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63266.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 02 (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63267.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 04 (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63269.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 05 (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63270.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 06 (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63271.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",EI PLUS HD (G)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/54705.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS HD (S)
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63268.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://bit.ly/2GLHTrI",ESPN
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37105.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/k3Ic3Mo.png",ESPN 2
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/62745.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN 2  HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/50734.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN 2 HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36976.mpegts
+#EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/k3Ic3Mo.png",ESPN 2 | Dual Áudio
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/63239.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ",ESPN BRASIL HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/73051.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/u11qaVb.png",ESPN BRASIL HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/50736.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://bit.ly/2ICVj9U",ESPN Brasil
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/37104.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN Extra
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/41977.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/M43oOmn.png",ESPN Extra HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/42910.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN HD
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/36977.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN HD [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/50739.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN [ALT]
+http://tv.minhalista.me/live/agenor1telecom/fp37ik75hsv/50740.mpegts
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD
 http://tv.minhalista.me/live/Karolayne/karolayne/36908.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/Nick_Jr.gif" group-title="Kids",Nick JR
