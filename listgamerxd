@@ -1393,4 +1393,12 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179369
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179370
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  SD" tvg-logo="http://fonteangelusiptv.com:25461/images/693e18d447e80f4789a715a7016585d7.png" group-title="RELIGIÃO ",TV APARECIDA  SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179371
+#EXTINF:-1 tvg-logo=".png", Playboy
+http://199.127.62.234:2082/streams/215_.m3u8
+#EXTINF:-1 tvg-logo=".png", Sexy Hot
+http://199.127.62.234:2082/streams/216_.m3u8
+#EXTINF:-1 tvg-logo=".png", Sextreme
+http://199.127.62.234:2082/streams/217_.m3u8
+#EXTINF:-1 tvg-logo=".png", Venus
+http://199.127.62.234:2082/streams/218_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="http://fonteangelusiptv.com:25461/images/ac064e089f1976f24db1aa85d7fb6fc2.png" group-title="RELIGIÃO ",TV NOVO TEMPO  SD
