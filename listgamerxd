@@ -235,6 +235,26 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178538
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178539
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178540
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png", FOX Sports
+http://199.127.62.234:2082/streams/55_.m3u8
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png", FOX Sports*
+http://199.127.62.234:2082/streams/56_.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png", FOX Sports 2
+http://199.127.62.234:2082/streams/58_.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png", FOX Sports 2*
+http://199.127.62.234:2082/streams/57_.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png", Espn Brasil
+http://199.127.62.234:2082/streams/53_.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png", Espn Brasil*
+http://199.127.62.234:2082/streams/54_.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://imgur.com/2tmLERi.png", Espn Extra
+http://199.127.62.234:2082/streams/50_.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png", ESPN
+http://199.127.62.234:2082/streams/51_.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png", ESPN*
+http://172.96.172.111:2095/streams/52_.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/u6Umuj3.png", ESPN 2
+http://199.127.62.234:2082/streams/241_.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.jpg" group-title="FILMES ",MEGAPIX SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178541
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX SD ALT
