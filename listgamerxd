@@ -437,6 +437,16 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178666
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178667
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178668
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png", SporTV
+http://199.127.62.234:2082/streams/70_.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png", SporTV*
+http://199.127.62.234:2082/streams/71_.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png", SporTV 2
+http://199.127.62.234:2082/streams/73_.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png", SporTV 2*
+http://199.127.62.234:2082/streams/72_.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png", SporTV 3
+http://199.127.62.234:2082/streams/74_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178669
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD ALT
@@ -567,6 +577,24 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178732
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178733
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178734
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 2¹
+http://199.127.62.234:2082/streams/63_.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 3¹
+http://199.127.62.234:2082/streams/64_.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 4¹
+http://199.127.62.234:2082/streams/65_.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 5¹
+http://172.96.172.111:2095/streams/66_.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 6¹
+http://199.127.62.234:2082/streams/67_.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 7¹
+http://199.127.62.234:2082/streams/68_.m3u8
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere 8¹
+http://199.127.62.234:2082/streams/69_.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere Clube
+http://199.127.62.234:2082/streams/62_.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere Clube*
+http://199.127.62.234:2082/streams/61_.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178735
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD ALT
@@ -1209,6 +1237,14 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179082
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179083
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179084
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://imgur.com/fEGL1RU.png", Conmebol 1¹
+http://199.127.62.234:2082/streams/308_.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://imgur.com/fEGL1RU.png", Conmebol 2¹
+http://199.127.62.234:2082/streams/309_.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://imgur.com/fEGL1RU.png", Conmebol 3¹
+http://199.127.62.234:2082/streams/310_.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://imgur.com/fEGL1RU.png", Conmebol 4¹
+http://199.127.62.234:2082/streams/311_.m3u8
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179085
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! HD ALT
