@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD
 plugin://plugin.video.f4mTester/?name=HISTORY HD&streamtype=SIMPLE&amp;url=http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178681
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action 
+http://199.127.62.234:2082/streams/214_.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action*
+http://199.127.62.234:2082/streams/214_.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png", Telecine Cult 
+http://199.127.62.234:2082/streams/204_.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png", Telecine Cult* 
+http://199.127.62.234:2082/streams/203_.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png", Telecine Fun 
+http://199.127.62.234:2082/streams/206_.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png", Telecine Fun*
+http://199.127.62.234:2082/streams/205_.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png", Telecine Pipoca 
+http://199.127.62.234:2082/streams/208_.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png", Telecine Pipoca *
+http://199.127.62.234:2082/streams/207_.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png", Telecine Premium 
+http://199.127.62.234:2082/streams/210_.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png", Telecine Premium*
+http://199.127.62.234:2082/streams/209_.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png", Telecine Touch 
+http://199.127.62.234:2082/streams/211_.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png", Telecine Touch*
+http://199.127.62.234:2082/streams/212_.m3u8
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178424
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION SD ALT
@@ -267,6 +291,10 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178544
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178545
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178546
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png", Megapix
+http://199.127.62.234:2082/streams/171_.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png", Megapix*
+http://199.127.62.234:2082/streams/182_.m3u8
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178547
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT SD ALT
