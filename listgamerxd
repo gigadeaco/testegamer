@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD
 plugin://plugin.video.f4mTester/?name=HISTORY HD&streamtype=SIMPLE&amp;url=http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178681
+#EXTINF:-1 tvg-id="History" tvg-logo="https://imgur.com/MhiTmLZ.png", History
+http://199.127.62.234:2082/streams/114_.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://imgur.com/MhiTmLZ.png", History*
+http://199.127.62.234:2082/streams/115_.m3u8
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://imgur.com/0cIhGQG.png", History 2
+http://199.127.62.234:2082/streams/223_.m3u8
 #EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action 
 http://199.127.62.234:2082/streams/214_.m3u8
 #EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action*
@@ -669,6 +675,36 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178755
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178756
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178757
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/88VNUdo.png", HBO Family
+http://199.127.62.234:2082/streams/194_.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/88VNUdo.png", HBO Family*
+http://199.127.62.234:2082/streams/193_.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://imgur.com/oldBYM2.png", HBO
+http://199.127.62.234:2082/streams/186_.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://imgur.com/oldBYM2.png", HBO*
+http://199.127.62.234:2082/streams/185_.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://imgur.com/TMl1hrx.png", HBO Plus
+http://199.127.62.234:2082/streams/190_.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://imgur.com/TMl1hrx.png", HBO Plus*
+http://199.127.62.234:2082/streams/189_.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://imgur.com/undefined.png", HBO Signature 
+http://199.127.62.234:2082/streams/191_.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://imgur.com/undefined.png", HBO Signature*
+http://172.96.172.111:2095/streams/192_.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://imgur.com/QWxYNA2.png", HBO2
+http://199.127.62.234:2082/streams/188_.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://imgur.com/QWxYNA2.png", HBO2*
+http://199.127.62.234:2082/streams/187_.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://imgur.com/39Q7aja.png", HBO Mundi
+http://199.127.62.234:2082/streams/195_.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://imgur.com/39Q7aja.png", HBO Mundi*
+http://199.127.62.234:2082/streams/196_.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://imgur.com/pLCnuKp.png", HBO Extreme
+http://199.127.62.234:2082/streams/7_.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://imgur.com/pLCnuKp.png", HBO Extreme*
+http://199.127.62.234:2082/streams/197_.m3u8
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://imgur.com/ZZJE0f4.png", HBO Pop
+http://199.127.62.234:2082/streams/183_.m3u8
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD ALT" tvg-logo="https://banner2.cleanpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="CANAIS HBO",HBO PLUS SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178758
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ALT" tvg-logo="https://banner2.cleanpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="CANAIS HBO",HBO PLUS HD ALT
