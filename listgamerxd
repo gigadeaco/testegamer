@@ -285,6 +285,14 @@ http://199.127.62.234:2082/streams/51_.m3u8
 http://172.96.172.111:2095/streams/52_.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/u6Umuj3.png", ESPN 2
 http://199.127.62.234:2082/streams/241_.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="OI TV BASICO",ESPN 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="OI TV BASICO",ESPN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="OI TV BASICO",ESPN EXTRA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="OI TV BASICO",ESPN INT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.jpg" group-title="FILMES ",MEGAPIX SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178541
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX SD ALT
@@ -481,6 +489,32 @@ http://199.127.62.234:2082/streams/73_.m3u8
 http://199.127.62.234:2082/streams/72_.m3u8
 #EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png", SporTV 3
 http://199.127.62.234:2082/streams/74_.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 1 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/142
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="Esportes",SporTV 1 +SD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/27
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 1 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40789
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv 1 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="Esportes",Sportv 1 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/1076
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="Esportes",SporTV 1 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38572
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 UHD_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="Canais 4K",SporTV 1 UHD_4k
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38857
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 +HD" tvg-logo="https://1.bp.blogspot.com/-uVrwMtHlv8Q/XhPBN5swFjI/AAAAAAABfmo/2hENNdD3ER0MOjHcJ-LmQv2qRAv7uL1iQCLcBGAsYHQ/w1200-h675-p-k-no-nu/sportv-2-png-8.png" group-title="Esportes",SporTV 2 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/140
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 +SD" tvg-logo="https://1.bp.blogspot.com/-uVrwMtHlv8Q/XhPBN5swFjI/AAAAAAABfmo/2hENNdD3ER0MOjHcJ-LmQv2qRAv7uL1iQCLcBGAsYHQ/w1200-h675-p-k-no-nu/sportv-2-png-8.png" group-title="Esportes",Sportv 2 +SD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/25
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 HD #4" tvg-logo="https://1.bp.blogspot.com/-uVrwMtHlv8Q/XhPBN5swFjI/AAAAAAABfmo/2hENNdD3ER0MOjHcJ-LmQv2qRAv7uL1iQCLcBGAsYHQ/w1200-h675-p-k-no-nu/sportv-2-png-8.png" group-title="Esportes",Sportv 2 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40838
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv 2 HD_1080p #3" tvg-logo="https://1.bp.blogspot.com/-uVrwMtHlv8Q/XhPBN5swFjI/AAAAAAABfmo/2hENNdD3ER0MOjHcJ-LmQv2qRAv7uL1iQCLcBGAsYHQ/w1200-h675-p-k-no-nu/sportv-2-png-8.png" group-title="Esportes",Sportv 2 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/1075
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 3 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/141
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 +SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",Sportv 3 +SD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/26
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 FullHD²" tvg-logo="https://1.bp.blogspot.com/-uVrwMtHlv8Q/XhPBN5swFjI/AAAAAAABfmo/2hENNdD3ER0MOjHcJ-LmQv2qRAv7uL1iQCLcBGAsYHQ/w1200-h675-p-k-no-nu/sportv-2-png-8.png" group-title="Esportes",Sportv 3 FullHD²
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/1074
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178669
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD ALT
@@ -629,6 +663,80 @@ http://199.127.62.234:2082/streams/69_.m3u8
 http://199.127.62.234:2082/streams/62_.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/6cv2Kvk.png", Premiere Clube*
 http://199.127.62.234:2082/streams/61_.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/125
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 +SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 +SD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/20
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40730
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38506
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40804
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 1 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/571
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 UHD_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Canais 4K",Premiere 1 UHD_4k
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38852
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 2 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/120
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 2 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40731
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 2 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38499
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 2 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40827
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 2 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38568
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 3 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/121
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 3 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40732
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 3 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38500
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 3 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40828
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 3 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38569
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/122
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40733
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/573
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38501
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40829
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 4 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38570
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 5 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/123
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 5 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40734
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 5 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38502
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 5 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40830
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD_1080p #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 5 HD_1080p #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40790
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 6 +HD
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/124
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 6 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40735
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 6 HD #3
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38503
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 6 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40831
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 7 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40736
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD #4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 7 HD #4
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40832
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 7 SD³
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38504
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 8 HD #2
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/40737
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Premiere",Premiere 8 SD³
+http://cdn.teambr.live:80/xkl2k3/gs0qt3/38505
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178735
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD ALT
