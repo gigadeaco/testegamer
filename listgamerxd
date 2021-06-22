@@ -287,9 +287,9 @@ http://172.96.172.111:2095/streams/52_.m3u8
 http://199.127.62.234:2082/streams/241_.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="OI TV BASICO",ESPN 2
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="OI TV BASICO",ESPN BRASIL
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="OI TV BASICO",ESPN EXTRA
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="ESPORTES",ESPN EXTRA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="ESPORTES",ESPN INT
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
@@ -479,15 +479,15 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178666
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178667
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178668
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png", SporTV
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png" group-title="ESPORTES", SporTV
 http://199.127.62.234:2082/streams/70_.m3u8
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png", SporTV*
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png" group-title="ESPORTES", SporTV*
 http://199.127.62.234:2082/streams/71_.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png", SporTV 2
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png" group-title="ESPORTES", SporTV 2
 http://199.127.62.234:2082/streams/73_.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png", SporTV 2*
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png" group-title="ESPORTES", SporTV 2*
 http://199.127.62.234:2082/streams/72_.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png", SporTV 3
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png" group-title="ESPORTES", SporTV 3
 http://199.127.62.234:2082/streams/74_.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 1 +HD
 http://cdn.teambr.live:80/xkl2k3/gs0qt3/142
