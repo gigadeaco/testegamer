@@ -7,29 +7,29 @@ http://199.127.62.234:2082/streams/114_.m3u8
 http://199.127.62.234:2082/streams/115_.m3u8
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://imgur.com/0cIhGQG.png", History 2
 http://199.127.62.234:2082/streams/223_.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action 
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png" group-title="FILMES", Telecine Action 
 http://199.127.62.234:2082/streams/214_.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png", Telecine Action*
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png" group-title="FILMES", Telecine Action*
 http://199.127.62.234:2082/streams/214_.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png", Telecine Cult 
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png" group-title="FILMES", Telecine Cult 
 http://199.127.62.234:2082/streams/204_.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png", Telecine Cult* 
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png" group-title="FILMES", Telecine Cult* 
 http://199.127.62.234:2082/streams/203_.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png", Telecine Fun 
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png" group-title="FILMES", Telecine Fun 
 http://199.127.62.234:2082/streams/206_.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png", Telecine Fun*
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png" group-title="FILMES", Telecine Fun*
 http://199.127.62.234:2082/streams/205_.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png", Telecine Pipoca 
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png" group-title="FILMES", Telecine Pipoca 
 http://199.127.62.234:2082/streams/208_.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png", Telecine Pipoca *
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png" group-title="FILMES", Telecine Pipoca *
 http://199.127.62.234:2082/streams/207_.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png", Telecine Premium 
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png" group-title="FILMES", Telecine Premium 
 http://199.127.62.234:2082/streams/210_.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png", Telecine Premium*
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png" group-title="FILMES", Telecine Premium*
 http://199.127.62.234:2082/streams/209_.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png", Telecine Touch 
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png" group-title="FILMES", Telecine Touch 
 http://199.127.62.234:2082/streams/211_.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png", Telecine Touch*
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png" group-title="FILMES", Telecine Touch*
 http://199.127.62.234:2082/streams/212_.m3u8
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178424
@@ -265,25 +265,25 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178538
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178539
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178540
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png", FOX Sports
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png" group-title="ESPORTES", FOX Sports
 http://199.127.62.234:2082/streams/55_.m3u8
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png", FOX Sports*
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png" group-title="ESPORTES", FOX Sports*
 http://199.127.62.234:2082/streams/56_.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png", FOX Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png" group-title="ESPORTES", FOX Sports 2
 http://199.127.62.234:2082/streams/58_.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png", FOX Sports 2*
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png" group-title="ESPORTES", FOX Sports 2*
 http://199.127.62.234:2082/streams/57_.m3u8
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png", Espn Brasil
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png" group-title="ESPORTES", Espn Brasil
 http://199.127.62.234:2082/streams/53_.m3u8
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png", Espn Brasil*
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://imgur.com/3yG75wo.png" group-title="ESPORTES", Espn Brasil*
 http://199.127.62.234:2082/streams/54_.m3u8
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://imgur.com/2tmLERi.png", Espn Extra
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://imgur.com/2tmLERi.png" group-title="ESPORTES", Espn Extra
 http://199.127.62.234:2082/streams/50_.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png", ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png" group-title="ESPORTES", ESPN
 http://199.127.62.234:2082/streams/51_.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png", ESPN*
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/LnibPhE.png" group-title="ESPORTES", ESPN*
 http://172.96.172.111:2095/streams/52_.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/u6Umuj3.png", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/u6Umuj3.png" group-title="ESPORTES", ESPN 2
 http://199.127.62.234:2082/streams/241_.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="OI TV BASICO",ESPN 2
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
@@ -291,7 +291,7 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="OI TV BASICO",ESPN EXTRA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="OI TV BASICO",ESPN INT
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="ESPORTES",ESPN INT
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.jpg" group-title="FILMES ",MEGAPIX SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178541
@@ -305,9 +305,9 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178544
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178545
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178546
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png", Megapix
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png" group-title="FILMES ", Megapix
 http://199.127.62.234:2082/streams/171_.m3u8
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png", Megapix*
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://imgur.com/hvxDjio.png" group-title="FILMES ", Megapix*
 http://199.127.62.234:2082/streams/182_.m3u8
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178547
@@ -1567,10 +1567,9 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179370
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179371
 #EXTINF:-1 tvg-logo=".png", Playboy
 http://199.127.62.234:2082/streams/215_.m3u8
-#EXTINF:-1 tvg-logo=".png", Sexy Hot
+#EXTINF:-1 tvg-logo=".png" group-title="Adulto ", Sexy Hot
 http://199.127.62.234:2082/streams/216_.m3u8
-#EXTINF:-1 tvg-logo=".png", Sextreme
+#EXTINF:-1 tvg-logo=".png" group-title="Adulto ", Sextreme
 http://199.127.62.234:2082/streams/217_.m3u8
-#EXTINF:-1 tvg-logo=".png", Venus
+#EXTINF:-1 tvg-logo=".png" group-title="Adulto ", Venus
 http://199.127.62.234:2082/streams/218_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="http://fonteangelusiptv.com:25461/images/ac064e089f1976f24db1aa85d7fb6fc2.png" group-title="RELIGIÃO ",TV NOVO TEMPO  SD
