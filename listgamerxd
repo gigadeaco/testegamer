@@ -1152,7 +1152,7 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178927
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178928
 #EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178929
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178930
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND HD
@@ -1192,7 +1192,7 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178947
 #EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rit.jpg" group-title="CANAIS ABERTOS ",RIT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178948
 #EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178949
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178950
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD." tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT HD.
