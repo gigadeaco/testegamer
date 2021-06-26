@@ -267,6 +267,8 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178539
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178540
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png" group-title="ESPORTES", FOX Sports
 http://199.127.62.234:2082/streams/55_.m3u8
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png" group-title="ESPORTES", FOX Sports
+http://in4ku.pogwli1.live/v3/youshi/m2_AkF7moyJqBpWr5L3ctZXu8D6_264.m3u8?session_id=W3MrswAwApHW&app_ver=10101&auth_id=46325232_com.global.brasiltvweb&client_ip=2804:431:e7d0:1631:f41c:d3d9:f8de:ce09&user_id=46325232&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://in4ku.pogwli1.live/v3/youshi/&spared_addr=http://in4ku.pogwli1.live/v3/youshi/&rst_status=0&dev_id=3041a577&expired=1624725226&token=68CA5D5B164DEFCDE87CFA5AFEC052DC&media_code=m2_AkF7moyJqBpWr5L3ctZXu8D6_264
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://imgur.com/Eq9B0ib.png" group-title="ESPORTES", FOX Sports*
 http://199.127.62.234:2082/streams/56_.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/1EbhvCw.png" group-title="ESPORTES", FOX Sports 2
@@ -484,11 +486,13 @@ http://199.127.62.234:2082/streams/70_.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bIfsYwn.png" group-title="ESPORTES", SporTV*
 http://199.127.62.234:2082/streams/71_.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png" group-title="ESPORTES", SporTV 2
-http://199.127.62.234:2082/streams/73_.m3u8
+http://b2p.li:80/WilliamMachado/88040983/5016
 #EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://imgur.com/bhBGxQV.png" group-title="ESPORTES", SporTV 2*
 http://199.127.62.234:2082/streams/72_.m3u8
 #EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png" group-title="ESPORTES", SporTV 3
 http://199.127.62.234:2082/streams/74_.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://imgur.com/hjAtYzS.png" group-title="ESPORTES", SporTV 3
+http://srvtv.online:2082/User501234/MVt25589/6915?checkedby:zaltv.co
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 1 +HD
 http://cdn.teambr.live:80/xkl2k3/gs0qt3/142
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="Esportes",SporTV 1 +SD
@@ -1513,6 +1517,8 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179130
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179131
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179132
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW FHD ALT
+http://dnsx.co:80/x634634/235233/72179
 #EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179133
 #EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL HD ALT
@@ -1561,6 +1567,8 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179228
 http://premiumtop.top:8080/paulo_fernandes/paulo/40
 #EXTINF:-1 TVG-LOGO="http://crawler.mdcgate.com/iptv/logo/27798.png" GROUP-TITLE="ESPORTES",ESPN BRASIL
 http://udq.me:80/live/hbSKTM2Cwm/4239353338/4091.m3u8
+#EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" GROUP-TITLE="ESPORTES",ESPN BRASIL
+http://1581.f5.si:8000/juanpala100/FQFR6C7/5122
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" GROUP-TITLE="ESPORTES",ESPN BRASIL
 http://1581.f5.si:8000/juanpala100/FQFR6C7/5122
 #EXTINF:-1 TVG-LOGO="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" GROUP-TITLE="ESPORTES",SPORTV
