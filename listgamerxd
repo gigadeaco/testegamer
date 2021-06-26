@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD
 plugin://plugin.video.f4mTester/?name=HISTORY HD&streamtype=SIMPLE&amp;url=http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178681
+#EXTINF:-1 tvg-id="History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2KHMYYYKvoOxJUZRYm9kBdGCs_Gc4U6qVQ&usqp=CAU" group-title="MUSICA ", NRG music
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w142468864.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://imgur.com/MhiTmLZ.png", History
 http://199.127.62.234:2082/streams/114_.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://imgur.com/MhiTmLZ.png", History*
