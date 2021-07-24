@@ -460,7 +460,9 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178616
 #EXTINF:-1 tvg-id="" tvg-name="REDBULL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/icon-2.png" group-title="ESPORTE ",REDBULL TV HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178651
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 HD 
-http://svrfit.com:25461/Ednar889967/536286/6730 
+http://svrfit.com:25461/Ednar889967/536286/6730
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",TEST OLIMPC 
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 3 HD 
 http://svrfit.com:25461/Ednar889967/536286/6731 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV HD 
