@@ -499,6 +499,8 @@ http://srv.ytub.eu:25461/live/mau81867/81867/638.ts
 http://vipeiptv.com:25461/luciana/123456/856238
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 - OLIMPIADAS" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 4 - OLIMPIADAS
 http://vipeiptv.com:25461/luciana/123456/979176
+#EXTINF:-1 tvg-logo="https://tinyurl.com/u9sptv" group-title="CANAIS ESPORTE NACIONAL",SPORTV FHD - h265 ²
+http://clienteworld.com:8080/tatiana/102030/12815
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/dummy.png" group-title="CANAIS ESPORTE NACIONAL",BADN - SPO
 http://srv.ytub.eu:25461/live/mau81867/81867/485.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
