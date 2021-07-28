@@ -459,12 +459,18 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178615
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178616
 #EXTINF:-1 tvg-id="" tvg-name="REDBULL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/icon-2.png" group-title="ESPORTE ",REDBULL TV HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178651
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="CANAIS ESPORTE NACIONAL",SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/index.m3u8
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 HD 
 http://svrfit.com:25461/Ednar889967/536286/6730
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",TEST OLIMPC 
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="CANAIS ESPORTE NACIONAL",SporTV 3 HD
+http://srv.ytub.eu:25461/live/mau81867/81867/641.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 3 HD 
 http://svrfit.com:25461/Ednar889967/536286/6731
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="CANAIS ESPORTE NACIONAL",SporTV 2 HD
+http://srv.ytub.eu:25461/live/mau81867/81867/638.ts
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 HD
 http://vipeiptv.com:25461/luciana/123456/856238
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 - OLIMPIADAS" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 4 - OLIMPIADAS
