@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLIMPICOS",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: 4K ",SPORTV 4K
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]CobraPlay[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xcui.vitvabc.xyz:8880/live/287994003117/287994003117/31047.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3dad4fc2-7b2f-4c08-b7a8-8c6505aee282" parent-code="" group-title="CanaisTop", Mosaico SporTV HD
