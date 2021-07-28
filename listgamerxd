@@ -461,6 +461,10 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178616
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178651
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="CANAIS ESPORTE NACIONAL",SporTV
 http://50.7.34.155:2200/BR/Sportv_HD-br/index.m3u8
+#EXTINF:-1,tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/28873
+#EXTINF:-1,tvg-name="SporTV 3 HD" tvg-logo="" group-title="CANAIS ESPORTE NACIONAL",SporTV 3 HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/28871
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 HD 
 http://svrfit.com:25461/Ednar889967/536286/6730
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",TEST OLIMPC 
