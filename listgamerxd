@@ -501,6 +501,8 @@ http://vipeiptv.com:25461/luciana/123456/856238
 http://vipeiptv.com:25461/luciana/123456/979176
 #EXTINF:-1 tvg-logo="https://tinyurl.com/u9sptv" group-title="CANAIS ESPORTE NACIONAL",SPORTV FHD - h265 ²
 http://clienteworld.com:8080/tatiana/102030/12815
+#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SporTV 2 FHD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="CANAIS ESPORTE NACIONAL",SporTV 2 FHD
+http://tv.minhalista.me/live/lucianatita21/0tc6krwdet/38395.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/dummy.png" group-title="CANAIS ESPORTE NACIONAL",BADN - SPO
 http://srv.ytub.eu:25461/live/mau81867/81867/485.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
