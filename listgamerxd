@@ -1697,11 +1697,9 @@ http://pe1b.distv.net:8080/ib-3992aurino/ShSLKB8CQ0/197
 http://assistirpainel.ddns.net:8880/rafaelmae2020/vlfE4hJpf9/7259
 #EXTINF:-1 tvg-id="" tvg-name="XX: Hustler HD" tvg-logo="https://pbs.twimg.com/media/CMJ_3lFVEAA8kd6.jpg" group-title="ADULTOS",XX: Hustler HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179270
-#EXTINF:-1 tvg-logo=".png" group-title="ADULTOS" Playboy
-http://199.127.62.234:2082/streams/215_.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="ADULTOS", Sexy Hot
-http://199.127.62.234:2082/streams/216_.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="ADULTOS", Sextreme
-http://199.127.62.234:2082/streams/217_.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="ADULTOS", Venus
-http://199.127.62.234:2082/streams/218_.m3u8
+#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
+http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
+#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
+http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
+#EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
+http://163.172.103.202:8880/287994003796/287994003796/32411
