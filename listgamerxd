@@ -1,5 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 FHD
+http://cmsppv.life:80/live/26513779/00109948/847618.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 FHD H265
+http://cmsppv.life:80/live/26513779/00109948/856985.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="PVRLive",SPORTV 2 FULLHD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31162.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="PVRLive",SporTV 2 HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/16751.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 HD
+http://cmsppv.life:80/live/26513779/00109948/847617.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 HD
+http://cmsppv.life:80/live/26513779/00109948/856757.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="PVRLive",SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31163.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="PVRLive",SPORTV 3 FHD
+http://cmsppv.life:80/live/26513779/00109948/847615.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="PVRLive",SPORTV 3 FHD H265
+http://cmsppv.life:80/live/26513779/00109948/856986.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="PVRLive",SPORTV 3 FULL HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31165.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="PVRLive",SPORTV 3 HD
+http://cmsppv.life:80/live/26513779/00109948/847614.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="PVRLive",SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31166.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="PVRLive",SporTV 3 HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/16752.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="PVRLive",SPORTV 3 HD
+http://cmsppv.life:80/live/26513779/00109948/856758.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV 4 H.265" tvg-logo="https://i.imgur.com/qdktvPB.png" group-title="PVRLive",SPORTV 4 H.265
+http://cmsppv.life:80/live/26513779/00109948/861018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV 4 HD" tvg-logo="https://i.imgur.com/qdktvPB.png" group-title="PVRLive",SPORTV 4 HD
+http://cmsppv.life:80/live/26513779/00109948/861019.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="PVRLive",SPORTV FHD
+http://cmsppv.life:80/live/26513779/00109948/847612.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV FHD H265" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="PVRLive",SPORTV FHD H265
+http://cmsppv.life:80/live/26513779/00109948/856987.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="PVRLive",SPORTV FULLHD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31168.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="PVRLive",SPORTV HD
+http://cmsppv.life:80/live/26513779/00109948/847611.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="PVRLive",SPORTV HD
+http://cmsppv.life:80/live/26513779/00109948/856759.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="PVRLive",SPORTV HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31170.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="PVRLive",SPORTV HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31169.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS FHD
+http://cmsppv.life:80/live/26513779/00109948/847846.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS FHD H265
+http://cmsppv.life:80/live/26513779/00109948/856917.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="PVRLive",BAND SPORTS FULLHD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31133.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
+http://cmsppv.life:80/live/26513779/00109948/847845.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
+http://cmsppv.life:80/live/26513779/00109948/856691.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="PVRLive",BAND SPORTS HD
+http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31134.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="PVRLive"",BAND SPORTS HD
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="PVRLive",BAND SPORT 4K
 http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14364
 #EXTINF:-1 tvg-id="SPORTV BR" tvg-name="SPORTV BR" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTESt",SPORTV BR 
 http://212.224.98.206:2200/BR/Sportv_HD-br/index.m3u8?token=
