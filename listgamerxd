@@ -1,8 +1,19 @@
 #EXTM3U
+#EXTINF:-1,SPORTV BR 
+#EXTGRP:Deportes
+http://212.224.98.206:2200/BR/Sportv_HD-br/index.m3u8?token=
+#EXTINF:-1,SPORTV 2 BR 
+#EXTGRP:Deportes
+http://212.224.98.206:2200/BR/Sportv_2_HD-br/index.m3u8?token=
+#EXTINF:-1,SPORTV 3 BR 
+#EXTGRP:Deportes
+http://212.224.98.206:2200/BR/Sportv_3_HD-br/index.m3u8?token=
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://imgur.com/ucScM3b.png" group-title="VARIEDADES",BAND SPORTS
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31133
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="VARIEDADES",SPORTV
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31169
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/sportv_02.png" group-title="4K TV", SPORTV
+http://tv1.cs10.tv:80/Alexandra/Alexandra/57569
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="VARIEDADES",SPORTV 2
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31162
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/IMVzHqd.png" group-title="VARIEDADES",SPORTV 3
@@ -1018,48 +1029,140 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178920
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178921
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD ALT" tvg-logo="https://i0.wp.com/castlemontessori.com/wp-content/uploads/2016/06/fox-news-logo-gray.png?ssl=1" group-title="NOTICIAS ",FOX NEWS HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178923
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178925
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178926
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178927
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178928
-#EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD ALT
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1723365796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178931
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178932
-#EXTINF:-1 tvg-id="" tvg-name="BAND FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178933
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178934
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178935
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178936
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178937
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178938
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178939
-#EXTINF:-1 tvg-id="" tvg-name="Record FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",Record FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178940
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BH HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD BH HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178941
-#EXTINF:-1 tvg-id="" tvg-name="Record BH HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",Record BH HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178942
-#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD DF HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178943
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD RS HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178944
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD SP HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178945
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RJ SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856417.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",Globo RJ SD*
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856418.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RJ HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856419.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",Globo RJ HD*
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/6549.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RJ FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/33556.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RJ FHD*
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856422.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO SP SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856427.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO SP SD*
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/14.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO SP HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856428.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO SP HD*
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/89.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO SP FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856430.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO MINAS SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856388.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",Globo Minas SD*
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856389.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO MINAS HD
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1933.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",Globo Minas FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856392.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BRASILIA HD 
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856373.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BRASÍLIA HD*
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1924.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BRASÍLIA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856370.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO GOIÁS ANHANGUERA HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856386.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO GOIÁS ANHANGUERA HD*
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1951.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO GOIÁS ANHANGUERA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856454.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BAHIA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856362.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BAHIA HD
+http://dnsl.me:80/live/2076823/3595137/49589.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO BAHIA FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856366.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO CEARA HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856385.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO CEARA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856384.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO MANAUS HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856358.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856376.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28355.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS HD 
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856379.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS FHD
+http://dnsl.me:80/live/2076823/3595137/16666.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",Globo EPTV CAMPINAS SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856377.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRÃO PRETO SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856381.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV SUL DE MINAS SD
+http://dnsl.me:80/live/2076823/3595137/48489.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV SUL DE MINAS HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/46798.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV SUL DE MINAS FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856444.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO INTER TV CABUGI SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856445.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO INTER TV CABUGI HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856387.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO EPTV SÃO CARLOS FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856383.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO NSC JOINVILLE HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856407.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856403.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO NORDESTE HD*
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/30939.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO NSC TV HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856408.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856412.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV 4K
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856413.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV POA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856409.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV POA HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856410.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV POA FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856411.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RPC CURITIBA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856423.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/30758.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RPC CURITIBA SD*
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856453.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RPC MARINGA
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/38021.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV CAXIAS DO SUL
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/46027.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV PASSO FUNDO
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/46918.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV PELOTAS
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/30949.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO RBS TV CRICIUMA
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/47156.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV MIRANTE SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856399.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV MORENA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856431.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV MORENA SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856432.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV MORENA HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856435.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV TEM BAURU HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856434.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV TEM BAURU SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856457.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV TRIBUNA SANTOS SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856459.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV VANGUARDA SJC HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856441.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV VANGUARDA SJC SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856460.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV VERDES MARES HD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856462.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/GLOBO..jpg" group-title="Canais Abertos",GLOBO TV VERDES MARES SD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/a0d63881986e2d53734fb0660594b420.png" group-title="CANAIS ABERTOS ",REDE VIDA
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178946
 #EXTINF:-1 tvg-id="" tvg-name="REDETV!" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/redetv.png" group-title="CANAIS ABERTOS ",REDETV!
