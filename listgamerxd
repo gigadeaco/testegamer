@@ -34,18 +34,14 @@ http://23.237.199.84:7283/SPORTV-2-HD-BR/index.m3u8?un=Alf23&tm=1627605356&sn=YW
 http://23.237.199.84:7283/SPORTV-3-HD-BR/index.m3u8?un=Alf23&tm=1627605356&sn=1xRZixf7qxP76Ag6d4xsWwHVZx3
 #EXTINF:-1 tvg-ID="32-845" tvg-name="BAND SPORTS HD BR" tvg-logo="https://ww.telegran.net/data/movie-new/BAND%20SPORTS%20HD%20BR.jpg" group-title="Brasil",BAND SPORTS HD BR
 http://23.237.199.84:7283/BAND-SPORTS-HD-BR/index.m3u8?un=Alf23&tm=1627605356&sn=Xk5Mpca7qsP4p1JHviN3I7kRpwQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/0d96785f-1090-4666-a190-073894ff2823" parent-code="" group-title="CanaisTop", Sport TV+
-http://api.magiaiptv.com/live/800195/918609/m3_UCWbpolpkgstvp_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/257cbd00-51de-49b0-8f65-51c6ee203364" parent-code="" group-title="CanaisTop", Sport TV 1
-http://api.magiaiptv.com/live/800195/918609/m3_DFwhzUuzfistv1_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/0e95acb8-4742-4e0d-8c3f-d920c577e293" parent-code="" group-title="CanaisTop", Sport TV 2
-http://api.magiaiptv.com/live/800195/918609/m3_FZukotDQWYstv2_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/28f48830-19ae-4849-8d84-d4884b0b3e64" parent-code="" group-title="CanaisTop", Sport TV 3
-http://api.magiaiptv.com/live/800195/918609/m3_eAb6FoNigKstv3_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8f5ab99c-f4e2-4329-887f-a64f37ecf5d7" parent-code="" group-title="CanaisTop", Sport TV 4
-http://api.magiaiptv.com/live/800195/918609/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/04c17a11-6cb4-44a4-86a5-63f3eb11bf30" parent-code="" group-title="CanaisTop", Sport TV 5
-http://api.magiaiptv.com/live/800195/918609/m3_L4QIjJorwjstv5_1080p
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Brasil",SporTV
+http://pfsv.io:80/66363671122/7140/555
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Brasil",SporTV 2
+http://pfsv.io:80/66363671122/7140/553
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Brasil",SporTV 3
+http://pfsv.io:80/66363671122/7140/554
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Brasil",Band Sports
+http://pfsv.io:80/33732940/14864/247
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD
 plugin://plugin.video.f4mTester/?name=HISTORY HD&streamtype=SIMPLE&amp;url=http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178681
 #EXTINF:-1 tvg-id="History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2KHMYYYKvoOxJUZRYm9kBdGCs_Gc4U6qVQ&usqp=CAU" group-title="MUSICA ", NRG music
