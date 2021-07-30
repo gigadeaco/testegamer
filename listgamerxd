@@ -1471,16 +1471,38 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179115
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179116
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179117
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179118
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179119
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179120
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179121
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179122
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 1 SD
+http://dnsl.me:80/live/2076823/3595137/28857.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 1 SD*
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856231.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/SPORT-TV.jpg" group-title="Esportesx",SporTV 1 HD
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/142.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/SPORT-TV.jpg" group-title="Esportesx",SporTV 1 HD*
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28480.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/SPORT-TV.jpg" group-title="Esportesx",SporTV 1 FHD
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/40802.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/SPORT-TV.jpg" group-title="Esportesx",SporTV 1 4K*
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/40697.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 2 SD
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1173.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 2 SD*
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/6602.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 2 HD
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/140.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 2 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/30795.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-2.jpg" group-title="Esportesx",SporTV 2 4K*
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/1075.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 3 SD
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/26.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 3 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28481.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 3 HD*
+http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1174.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 3 FHD
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856240.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 4K
+http://dnslist.ca:80/live/9wwfro9c/smj8voyz/43012.m3u8
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179123
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD ALT
