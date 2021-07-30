@@ -21,6 +21,20 @@ http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31537
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31540
 #EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://imgur.com/YslkHQW.png" group-title="VARIEDADES",PREMIERE 6
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31543
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
+http://pfsv.io:80/33732940/14864/524
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
+http://pfsv.io:80/07720253/51853/525
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
+http://pfsv.io:80/33732940/14864/526
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
+http://pfsv.io:80/66363671122/7140/533
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
+http://pfsv.io:80/33732940/14864/528
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
+http://pfsv.io:80/66363671122/7140/529
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
+http://pfsv.io:80/33732940/14864/530
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://imgur.com/T97j44o.png" group-title="VARIEDADES",TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://imgur.com/T97j44o.png" group-title="VARIEDADES",TNT SPORTS 2
