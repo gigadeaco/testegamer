@@ -90,20 +90,48 @@ http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31537
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31540
 #EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://imgur.com/YslkHQW.png" group-title="VARIEDADES",PREMIERE 6
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31543
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
-http://pfsv.io:80/33732940/14864/524
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
-http://pfsv.io:80/07720253/51853/525
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
-http://pfsv.io:80/33732940/14864/526
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
-http://pfsv.io:80/66363671122/7140/533
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
-http://pfsv.io:80/33732940/14864/528
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
-http://pfsv.io:80/66363671122/7140/529
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
-http://pfsv.io:80/33732940/14864/530
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/PREMIERE.jpg" group-title="Esportes0",Premiere Clubes HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/46564.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/PREMIERE.jpg" group-title="Esportes0",Premiere Clubes HD*
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/46330.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/PREMIERE.jpg" group-title="Esportes0",Premiere Clubes FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/30798.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/04/PREMIERE.jpg" group-title="Esportes0",Premiere Clubes 4K*
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/35866.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-2.jpg" group-title="Esportes0",Premiere 2 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28960.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-2.jpg" group-title="Esportes0",Premiere 2 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28846.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-2.jpg" group-title="Esportes0",Premiere 2 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/29506.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-3.jpg" group-title="Esportes0",Premiere 3 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28959.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-3.jpg" group-title="Esportes0",Premiere 3 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28845.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-3.jpg" group-title="Esportes0",Premiere 3 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/29504.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-4.jpg" group-title="Esportes0",Premiere 4 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28958.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-4.jpg" group-title="Esportes0",Premiere 4 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/29503.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-5.jpg" group-title="Esportes0",Premiere 5 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28957.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-5.jpg" group-title="Esportes0",Premiere 5 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28843.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-5.jpg" group-title="Esportes0",Premiere 5 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/29502.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-6.jpg" group-title="Esportes0",Premiere 6 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28956.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-6.jpg" group-title="Esportes0",Premiere 6 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28800.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-6.jpg" group-title="Esportes0",Premiere 6 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/44740.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-7.jpg" group-title="Esportes0",Premiere 7 SD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28918.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-7.jpg" group-title="Esportes0",Premiere 7 HD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/28799.m3u8
+#EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/PREMIERE-7.jpg" group-title="Esportes0",Premiere 7 FHD
+http://stv.mtvs.me:80/live/ndv91NlMgF/pPPHw5mCRO/44741.m3u8
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://imgur.com/T97j44o.png" group-title="VARIEDADES",TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://imgur.com/T97j44o.png" group-title="VARIEDADES",TNT SPORTS 2
