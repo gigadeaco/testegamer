@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="atual",SPORTV
+http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31169
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="atual",SPORTV 2
+http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31162
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/IMVzHqd.png" group-title="atual",SPORTV 3
+http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31165
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://imgur.com/rJ8T2Jc.png" group-title="atual",SPORTV 4
+http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31536
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 FHD
 http://cmsppv.life:80/live/26513779/00109948/847618.ts
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="PVRLive",SPORTV 2 FHD H265
