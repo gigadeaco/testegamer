@@ -25,6 +25,12 @@ http://pfsv.io:80/8092863/74963/30292
 http://pfsv.io:80/8092863/74963/30291
 #EXTINF:-1 tvg-name="SPORTV3" group-title="xESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3 ALT
 http://pfsv.io:80/8092863/74963/30291
+#EXTINF:-1, tvg-id="SporTV" group-title="xESPORTES" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437586_C8AF889FB8170E95.png" tvg-name="SporTV",SporTV1
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
+#EXTINF:-1, tvg-id="SporTV 2" group-title="xESPORTES" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114952_FA53D356CA98A695.png" tvg-name="SporTV2",SporTV 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
+#EXTINF:-1, tvg-id="SporTV 3" group-title="xESPORTES" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114946_14645C44F632829D.png" tvg-name="SporTV3",SporTV 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
 http://cmsppv.life:80/live/26513779/00109948/847845.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
