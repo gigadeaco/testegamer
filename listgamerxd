@@ -31,42 +31,16 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
 #EXTINF:-1, tvg-id="SporTV 3" group-title="xESPORTES" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114946_14645C44F632829D.png" tvg-name="SporTV3",SporTV 3
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 FHD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75457
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 FHD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76018
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 HD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75456
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 HD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76017
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 SD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75455
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SporTV 2 SD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76014
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 FHD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75460
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 FHD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76021
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 HD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75459
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 HD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76020
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 SD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75458
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 SD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76019
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV FHD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75463
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV FHD H265 [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76016
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV HD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75462
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV HD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76015
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV SD²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75452
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV SD¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/76013
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV HD+
+http://tvdns.tech:80/Mateus123/Mateus123/770203
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 2 HD+
+http://tvdns.tech:80/Mateus123/Mateus123/770193
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 3 HD+
+http://tvdns.tech:80/Mateus123/Mateus123/770196
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 4 HD+
+http://tvdns.tech:80/Mateus123/Mateus123/770201
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
 http://cmsppv.life:80/live/26513779/00109948/847845.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="PVRLive",BAND SPORTS HD
