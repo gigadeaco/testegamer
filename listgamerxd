@@ -33,10 +33,8 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV HD+
 http://tvdns.tech:80/Mateus123/Mateus123/770203
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 2 HD+
 http://tvdns.tech:80/Mateus123/Mateus123/770193
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 3 HD+
 http://tvdns.tech:80/Mateus123/Mateus123/770196
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 4 HD+
@@ -50,12 +48,24 @@ http://xcui.vitvabc.xyz:8880/live/2879940036a3/2879940036a3/31134.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="PVRLive"",BAND SPORTS HD
 #EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="PVRLive",BAND SPORT 4K
 http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14364
-#EXTINF:-1 tvg-id="SPORTV BR" tvg-name="SPORTV BR" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTESt",SPORTV BR 
-http://212.224.98.206:2200/BR/Sportv_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="SPORTV 2 BR" tvg-name="SPORT TV 2 BR" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv2.png" group-title="ESPORTESt",SPORTV 2 BR 
-http://212.224.98.206:2200/BR/Sportv_2_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="SPORTV 3 BR" tvg-name="SPORT TV 3 BR" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv3.png" group-title="ESPORTESt",SPORTV 3 BR 
-http://212.224.98.206:2200/BR/Sportv_3_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
+http://canaishd.servidor.tv:8080/fernando21/fernando21/1443
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
+http://canaishd.servidor.tv:8080/fernando21/fernando21/123
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
+http://canaishd.servidor.tv:8080/fernando21/fernando21/1442
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
+http://canaishd.servidor.tv:8080/fernando21/fernando21/121
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="https://logos.servidor.tv/sportv4.png" group-title="Canais: Esporte",SporTV 4 HD
+http://canaishd.servidor.tv:8080/fernando21/fernando21/64548
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD+" tvg-logo="https://logos.servidor.tv/sportv4.png" group-title="Canais: Esporte",SporTV 4 HD+
+http://canaishd.servidor.tv:8080/fernando21/fernando21/64547
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 4K UHD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: 4K UHD",Sportv 4K UHD
+http://canaishd.servidor.tv:8080/fernando21/fernando21/56504
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
+http://canaishd.servidor.tv:8080/fernando21/fernando21/1444
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD+
+http://canaishd.servidor.tv:8080/fernando21/fernando21/119
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://imgur.com/ucScM3b.png" group-title="VARIEDADES",BAND SPORTS
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31133
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="VARIEDADES",SPORTV
