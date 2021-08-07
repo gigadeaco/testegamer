@@ -49,6 +49,16 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7275
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13423
 #EXTINF:-1 group-title="Canais| Principais",SporTV [Alter]
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7280
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SPORTV OP01
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8?premiumtv.org
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71bf5f2d333b9cb1e7a990012cbf355b.jpg" group-title="Esportes",SPORTV 2 OP01
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?premiumtv.org
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1009c0d7cc95b0192b729c3004d312f3.jpg" group-title="Esportes",SPORTV 2 OP02
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?premiumtv.org
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OiyeehS2iG0/UAY79C8hpCI/AAAAAAAABcw/U3SZHdXnuNM/s1600/SPORTV-HD%255B1%255D.jpg="Esportes", SPORTV 3 OP01
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?LISTASGLAU
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e2d66b19f0ef29559216b6cd6193ff5.jpg" group-title="Esportes",SPORTV 3 OP02
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?premiumtv.org
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="atual",SPORTV
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31169
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="atual",SPORTV 2
