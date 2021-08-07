@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 1 (Brazin)
+https://v3.sportzonline.to/channels/bra/br1.php|isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 2 (Brazin)
+https://v3.sportzonline.to/channels/bra/br2.php|isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 3 (Brazin)
+https://v3.sportzonline.to/channels/bra/br3.php|isHost=true
+#EXTINF:-1 group-title="Canais| Principais",Sport TV 2 HD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2191
+#EXTINF:-1 group-title="Canais| Principais",Sport TV 3 HD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2190
+#EXTINF:-1 group-title="Canais| Principais",Sport TV HD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2189
+#EXTINF:-1 group-title="Canais| Principais",SporTV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2188
+#EXTINF:-1 group-title="Canais| Principais",SporTV 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2187
+#EXTINF:-1 group-title="Canais| Principais",Sportv 2 FHD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7154
+#EXTINF:-1 group-title="Canais| Principais",Sportv 2 FHD H.265
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
+#EXTINF:-1 group-title="Canais| Principais",SporTV 2 HD [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7278
+#EXTINF:-1 group-title="Canais| Principais",SporTV 2 [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7279
+#EXTINF:-1 group-title="Canais| Principais",SporTV 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2186
+#EXTINF:-1 group-title="Canais| Principais",Sportv 3 FHD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7153
+#EXTINF:-1 group-title="Canais| Principais",Sportv 3 FHD H.265
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
+#EXTINF:-1 group-title="Canais| Principais",SporTV 3 HD [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7276
+#EXTINF:-1 group-title="Canais| Principais",SporTV 3 [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7277
+#EXTINF:-1 group-title="Canais| Principais",Sportv 4 FHD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/50202
+#EXTINF:-1 group-title="Canais| Principais",Sportv 4K
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22157
+#EXTINF:-1 group-title="Canais| Principais",Sportv FHD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7178
+#EXTINF:-1 group-title="Canais| Principais",Sportv FHD H.265
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
+#EXTINF:-1 group-title="Canais| Principais",SporTV HD [Alter 2]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13422
+#EXTINF:-1 group-title="Canais| Principais",SporTV HD [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7275
+#EXTINF:-1 group-title="Canais| Principais",SporTV [Alter 2]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13423
+#EXTINF:-1 group-title="Canais| Principais",SporTV [Alter]
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7280
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="atual",SPORTV
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31169
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="atual",SPORTV 2
