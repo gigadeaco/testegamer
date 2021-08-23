@@ -2082,6 +2082,32 @@ http://sv1.cola.kim:8080/Ruibala/sFzQli8akJ/7
 http://pe1b.distv.net:8080/ib-3992aurino/ShSLKB8CQ0/197
 #EXTINF:-1 TVG-LOGO="http://crawler.mdcgate.com/iptv/logo/370744.png" GROUP-TITLE="TVFECHADA",TELECINE ACTION
 http://assistirpainel.ddns.net:8880/rafaelmae2020/vlfE4hJpf9/7259
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: PLAYBOY FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY FHD H265
+http://cdnrede.com:80/joao6017/6017joao/59825
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV FHD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV FHD
+http://cdnrede.com:80/joao6017/6017joao/22614
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV HD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV HD
+http://cdnrede.com:80/joao6017/6017joao/4977
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD
+http://cdnrede.com:80/joao6017/6017joao/4978
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD ²
+http://cdnrede.com:80/joao6017/6017joao/25719
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: SEXY HOT FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61115
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD
+http://cdnrede.com:80/joao6017/6017joao/4975
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD ²
+http://cdnrede.com:80/joao6017/6017joao/41753
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: SEXTREME FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61114
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD
+http://cdnrede.com:80/joao6017/6017joao/4976
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD ²
+http://cdnrede.com:80/joao6017/6017joao/41754
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VENUS FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VENUS FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61111
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VENUS SD" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VENUS SD
+http://cdnrede.com:80/joao6017/6017joao/4974
 #EXTINF:-1 tvg-id="" tvg-name="XX: Hustler HD" tvg-logo="https://pbs.twimg.com/media/CMJ_3lFVEAA8kd6.jpg" group-title="ADULTOS",XX: Hustler HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179270
 #EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
