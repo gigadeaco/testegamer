@@ -265,100 +265,54 @@ http://199.127.62.234:2082/streams/114_.m3u8
 http://199.127.62.234:2082/streams/115_.m3u8
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://imgur.com/0cIhGQG.png", History 2
 http://199.127.62.234:2082/streams/223_.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png" group-title="FILMES", Telecine Action 
-http://199.127.62.234:2082/streams/214_.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/7i8gvqL.png" group-title="FILMES", Telecine Action*
-http://199.127.62.234:2082/streams/214_.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png" group-title="FILMES", Telecine Cult 
-http://199.127.62.234:2082/streams/204_.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://imgur.com/GvRUPzx.png" group-title="FILMES", Telecine Cult* 
-http://199.127.62.234:2082/streams/203_.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png" group-title="FILMES", Telecine Fun 
-http://199.127.62.234:2082/streams/206_.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://imgur.com/iSdaonU.png" group-title="FILMES", Telecine Fun*
-http://199.127.62.234:2082/streams/205_.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png" group-title="FILMES", Telecine Pipoca 
-http://199.127.62.234:2082/streams/208_.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://imgur.com/Wh9lETQ.png" group-title="FILMES", Telecine Pipoca *
-http://199.127.62.234:2082/streams/207_.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png" group-title="FILMES", Telecine Premium 
-http://199.127.62.234:2082/streams/210_.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://imgur.com/3nRBY0F.png" group-title="FILMES", Telecine Premium*
-http://199.127.62.234:2082/streams/209_.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png" group-title="FILMES", Telecine Touch 
-http://199.127.62.234:2082/streams/211_.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://imgur.com/tAgb8Oh.png" group-title="FILMES", Telecine Touch*
-http://199.127.62.234:2082/streams/212_.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178424
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178425
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178426
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178427
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178428
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178429
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178430
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178431
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178432
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178433
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178434
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178435
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178436
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178437
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178438
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178439
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178440
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178441
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178442
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178443
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178444
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178445
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178446
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178447
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178448
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178449
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178450
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178451
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178452
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178453
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178454
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178455
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178456
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178457
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178458
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/FJKpfPC/B-Telecine-Action-SD.png" group-title="Telecine",Telecine Action
+http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD" tvg-logo="https://i.ibb.co/q9N0zMC/B-Telecine-Action-FHD.png" group-title="Telecine",Telecine Action FHD
+http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="https://i.ibb.co/x5kjb2n/B-Telecine-Action-HD.png" group-title="Telecine",Telecine Action HD
+http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="https://i.ibb.co/d0wXMc2/G-Telecine-Action-HD.png" group-title="Telecine",Telecine Action HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/qpDTmhW/B-Telecine-Cult-SD.png" group-title="Telecine",Telecine Cult
+http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="https://i.ibb.co/2d10L9Y/B-Telecine-Cult-FHD.png" group-title="Telecine",Telecine Cult FHD
+http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="https://i.ibb.co/4f0RpCq/B-Telecine-Cult-HD.png" group-title="Telecine",Telecine Cult HD
+http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="https://i.ibb.co/cJS4CKp/G-Telecine-Cult-HD.png" group-title="Telecine",Telecine Cult HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/HDYH8Qr/B-Telecine-Fun-SD.png" group-title="Telecine",Telecine Fun
+http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="https://i.ibb.co/n7jX41b/B-Telecine-Fun-FHD.png" group-title="Telecine",Telecine Fun FHD
+http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="https://i.ibb.co/pwnbmd7/B-Telecine-Fun-HD.png" group-title="Telecine",Telecine Fun HD
+http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="https://i.ibb.co/wwgfhzq/G-Telecine-Fun-HD.png" group-title="Telecine",Telecine Fun HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/jbST3KQ/B-Telecine-Pipoca-SD.png" group-title="Telecine",Telecine Pipoca
+http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="https://i.ibb.co/ck10s6f/B-Telecine-Pipoca-FHD.png" group-title="Telecine",Telecine Pipoca FHD
+http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/t3nbcM8/B-Telecine-Pipoca-HD.png" group-title="Telecine",Telecine Pipoca HD
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="https://i.ibb.co/vxH66fb/G-Telecine-Pipoca-HD.png" group-title="Telecine",Telecine Pipoca HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/w4sG7t4/B-Telecine-Premium-SD.png" group-title="Telecine",Telecine Premium
+http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="https://i.ibb.co/9br7Lgr/B-Telecine-Premium-FHD.png" group-title="Telecine",Telecine Premium FHD
+http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/kyRhFG9/B-Telecine-Premium-HD.png" group-title="Telecine",Telecine Premium HD
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD [Alter]" tvg-logo="https://i.ibb.co/sv3594b/G-Telecine-Premium-HD.png" group-title="Telecine",Telecine Premium HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/gTcthKM/B-Telecine-Touch-SD.png" group-title="Telecine",Telecine Touch
+http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="https://i.ibb.co/YtRQNVs/B-Telecine-Touch-FHD.png" group-title="Telecine",Telecine Touch FHD
+http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/XtXdPyg/B-Telecine-Touch-HD.png" group-title="Telecine",Telecine Touch HD
+http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="https://i.ibb.co/HxV5Xnb/G-Telecine-Touch-HD.png" group-title="Telecine",Telecine Touch HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178459
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
@@ -1825,6 +1779,14 @@ http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=8e438b7a0366544
 http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 type="stream" tvg-id="Music Box Brazil HD" tvg-logo="https://i.ibb.co/KD6JdKt/B-Music-Box-Brazil-HD.png" group-title="Entretenimento",Music Box Brazil HD
 http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+EXTINF:-1 type="stream" tvg-id="VH1 FHD" tvg-logo="https://i.ibb.co/2Y24DMz/B-VH1-HD.png" group-title="Entretenimento",VH1 FHD
+http://lb.kstream.org/aovivo/FHD_VH1/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="VH1 FHD [Alter]" tvg-logo="https://i.ibb.co/2Y24DMz/B-VH1-HD.png" group-title="Entretenimento",VH1 FHD [Alter]
+http://lb.kstream.org/aovivo/FHD_VH1_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="VH1 HD" tvg-logo="https://i.ibb.co/2Y24DMz/B-VH1-HD.png" group-title="Entretenimento",VH1 HD
+http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="VH1 HD [Alter]" tvg-logo="https://i.ibb.co/g4cTD7Y/G-VH1-HD.png" group-title="Entretenimento",VH1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179136
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD ALT
