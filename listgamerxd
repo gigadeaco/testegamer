@@ -1797,34 +1797,34 @@ http://dns.clientetv.net:8080/live/Thiagobarradorio/kqVEjS/1174.m3u8
 http://vipeiptv.com:25461/live/hfd202122/ajh284763/856240.m3u8
 #EXTINF:-1 tvg-logo="https://tv24horasonline.com/wp-content/uploads/2021/07/SPORTV-3.jpg" group-title="Esportesx",SporTV 4K
 http://dnslist.ca:80/live/9wwfro9c/smj8voyz/43012.m3u8
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179123
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179124
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179125
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179126
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179127
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179128
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179129
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179130
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179131
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179132
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW FHD ALT
-http://dnsx.co:80/x634634/235233/72179
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179133
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179134
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179135
+#EXTINF:-1 type="stream" tvg-id="MTV FHD" tvg-logo="https://i.ibb.co/n3GMPyH/B-MTV-FHD.png" group-title="Entretenimento",MTV FHD
+http://lb.kstream.org/aovivo/FHD_MTV/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="MTV HD" tvg-logo="https://i.ibb.co/K7NrD0X/B-MTV-HD.png" group-title="Entretenimento",MTV HD
+http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="MTV HD [Alter]" tvg-logo="https://i.ibb.co/BPmdPgZ/G-MTV-HD.png" group-title="Entretenimento",MTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat FHD" tvg-logo="https://i.ibb.co/stcD4Nc/B-Mais-Na-Tela-FHD.png" group-title="Variedade",Mais Globosat FHD
+http://lb.kstream.org/aovivo/FHD_GLOBOSAT/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat HD" tvg-logo="https://i.ibb.co/7VBVt71/B-Mais-Na-Tela-HD.png" group-title="Variedade",Mais Globosat HD
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat HD [Alter]" tvg-logo="https://i.ibb.co/0Gxc7pf/G-Mais-Na-Tela-HD.png" group-title="Variedade",Mais Globosat HD [Alter]
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Megapix FHD" tvg-logo="https://i.ibb.co/y8bsT17/B-Megapix-FHD.png" group-title="Filme",Megapix FHD
+http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="https://i.ibb.co/cJj6gyv/B-Megapix-HD.png" group-title="Filme",Megapix HD
+http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Megapix HD [Alter]" tvg-logo="https://i.ibb.co/X3MZBd4/G-Megapix-HD.png" group-title="Filme",Megapix HD [Alter]
+http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Multishow FHD" tvg-logo="https://i.ibb.co/Zm7C8wS/B-Multishow-FHD.png" group-title="Entretenimento",Multishow FHD
+http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Multishow HD" tvg-logo="https://i.ibb.co/Mpk3w0c/B-Multishow-HD.png" group-title="Entretenimento",Multishow HD
+http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Multishow HD [Alter]" tvg-logo="https://i.ibb.co/hKkyvvS/G-Multishow-HD.png" group-title="Entretenimento",Multishow HD [Alter]
+http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Music Box Brazil FHD" tvg-logo="https://i.ibb.co/RHKZCbX/B-Music-Box-Brazil-FHD.png" group-title="Entretenimento",Music Box Brazil FHD
+http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
+#EXTINF:-1 type="stream" tvg-id="Music Box Brazil HD" tvg-logo="https://i.ibb.co/KD6JdKt/B-Music-Box-Brazil-HD.png" group-title="Entretenimento",Music Box Brazil HD
+http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179136
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD ALT
