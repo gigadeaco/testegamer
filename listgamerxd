@@ -310,10 +310,8 @@ http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31165
 #EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://imgur.com/rJ8T2Jc.png" group-title="VARIEDADES",SPORTV 4
 http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31537
 
-
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="canais" group-title="PREMIRERE", 7
-
-
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes1
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="VARIEDADES",PREMIERE CLUBES
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/TWRHfRt/B-Premiere-Clubes-HD.png" group-title="Premiere",Premiere Clubes HD
