@@ -1,77 +1,226 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 2 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/58703
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 2 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1213
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 2 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25254
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 3 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/52603
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 3 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1214
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 3 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25238
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 4 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/52635
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 4 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1215
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 4 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25250
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 5 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/52636
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 5 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1216
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 5 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25242
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 6 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/16211
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 6 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25757
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 7 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/16213
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 7 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/30379
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-name="PREMIERE 8 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 8 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/38359
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-name="PREMIERE 8 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 8 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/38358
-#EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="PREMIERE 9 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 9 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/41353
-#EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="PREMIERE 9 SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE 9 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/41351
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE CLUBES FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/58704
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE CLUBES HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1714
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="PREMIERE",PREMIERE CLUBES SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/25246
-#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 FULL HD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="SPORTV",SPORTV 1 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/58708
-#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 HD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="SPORTV",SPORTV 1 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1203
-#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 SD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="SPORTV",SPORTV 1 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/47527
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="SPORTV",SPORTV 2 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/58709
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="SPORTV",SPORTV 2 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/2401
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="SPORTV",SPORTV 2 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/22450
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="SPORTV",SPORTV 3 FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/58710
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="SPORTV",SPORTV 3 HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/2402
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="SPORTV",SPORTV 3 SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/22454
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1106
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS FULL HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/52609
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/2407
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE FULL HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE FULL HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/52650
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE HD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/1088
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD
-http://list.deeplist.nl:80/bvnfh5373/sdfh3663/22442
+#EXTINF:-1 group-title="ESPORTES",All Sports
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+http://177.71.71.83:8000/play/bandsports
+
+#EXTINF:-1 group-title="ESPORTES",Combate World
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://177.71.71.83:8001/play/espn
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://177.71.71.83:8000/play/espn2
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
+http://177.71.71.83:8001/play/espnbrasil
+
+#EXTINF:-1 group-title="ESPORTES",ESPN Extra
+http://177.71.71.83:8000/play/espnextra
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Fox Sports
+https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
+
+#EXTINF:-1 group-title="ESPORTES",Fox Sports [Opcao 2]
+http://200.194.238.229:8000/udp/225.1.1.7:1234
+
+#EXTINF:-1 group-title="ESPORTES",Fox Sports 2
+http://200.194.238.229:8000/udp/225.1.1.6:1234
+
+#EXTINF:-1 group-title="ESPORTES",Gol TV Brasil
+https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Off
+http://177.71.71.83:8000/play/off
+
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://177.71.71.83:8000/play/premiereclubes
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://177.71.71.83:8000/play/premiere2
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://177.71.71.83:8000/play/premiere3
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://177.71.71.83:8001/play/premiere4
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://177.71.71.83:8000/play/premiere5
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://177.71.71.83:8000/play/sportv
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://177.71.71.83:8000/play/sportv2
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 2 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Woohoo
+http://177.20.208.58:8000/play/a022/index.m3u8
+#EXTINF:-1,Megapix HD
+http://starsat123.com:8080/obsexchange/telgrammm/53400
+#EXTINF:-1,MTV HD
+http://starsat123.com:8080/obsexchange/telgrammm/53402
+#EXTINF:-1,BR: Multishow  HD
+http://starsat123.com:8080/obsexchange/telgrammm/53404
+#EXTINF:-1,Music Box Brazil
+http://starsat123.com:8080/obsexchange/telgrammm/53406
+#EXTINF:-1,Nat Geo  HD
+http://starsat123.com:8080/obsexchange/telgrammm/53407
+#EXTINF:-1,BR: Nat Geo Kids HD
+http://starsat123.com:8080/obsexchange/telgrammm/53408
+#EXTINF:-1,Nat Geo Wild HD
+http://starsat123.com:8080/obsexchange/telgrammm/53412
+#EXTINF:-1,Nick Jr HD
+http://starsat123.com:8080/obsexchange/telgrammm/53415
+#EXTINF:-1,Nickelodeon HD
+http://starsat123.com:8080/obsexchange/telgrammm/53417
+#EXTINF:-1,Novo Tempo
+http://starsat123.com:8080/obsexchange/telgrammm/53419
+#EXTINF:-1,OFF HD
+http://starsat123.com:8080/obsexchange/telgrammm/53420
+#EXTINF:-1,BR: Paramount Channel HD
+http://starsat123.com:8080/obsexchange/telgrammm/53423
+#EXTINF:-1,Play TV
+http://starsat123.com:8080/obsexchange/telgrammm/53425
+#EXTINF:-1,BR: Premiere 2 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53427
+#EXTINF:-1,BR: Premiere 3 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53429
+#EXTINF:-1,BR: Premiere 4 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53431
+#EXTINF:-1,BR: Premiere 5 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53433
+#EXTINF:-1,BR: Premiere 6
+http://starsat123.com:8080/obsexchange/telgrammm/53435
+#EXTINF:-1,BR: Premiere 7
+http://starsat123.com:8080/obsexchange/telgrammm/53436
+#EXTINF:-1,BR: Premiere Clubes Extra
+http://starsat123.com:8080/obsexchange/telgrammm/53437
+#EXTINF:-1,BR: Premiere Clubes HD
+http://starsat123.com:8080/obsexchange/telgrammm/53439
+#EXTINF:-1,Record HD
+http://starsat123.com:8080/obsexchange/telgrammm/53441
+#EXTINF:-1,Record Campinas  HD
+http://starsat123.com:8080/obsexchange/telgrammm/53443
+#EXTINF:-1,BR: Record MINAS HD
+http://starsat123.com:8080/obsexchange/telgrammm/53444
+#EXTINF:-1,BR: Record News HD
+http://starsat123.com:8080/obsexchange/telgrammm/53445
+#EXTINF:-1,BR: Record RJ HD
+http://starsat123.com:8080/obsexchange/telgrammm/53447
+#EXTINF:-1,BR: Record SP HD
+http://starsat123.com:8080/obsexchange/telgrammm/53449
+#EXTINF:-1,Rede Familia
+http://starsat123.com:8080/obsexchange/telgrammm/53450
+#EXTINF:-1,BR: Rede Gospel
+http://starsat123.com:8080/obsexchange/telgrammm/53451
+#EXTINF:-1,BR: Rede TV
+http://starsat123.com:8080/obsexchange/telgrammm/53452
+#EXTINF:-1,BR: Rede Vida
+http://starsat123.com:8080/obsexchange/telgrammm/53453
+#EXTINF:-1,SBT  HD
+http://starsat123.com:8080/obsexchange/telgrammm/53454
+#EXTINF:-1,SBT Brasilia
+http://starsat123.com:8080/obsexchange/telgrammm/53456
+#EXTINF:-1,BR: SBT RJ HD
+http://starsat123.com:8080/obsexchange/telgrammm/53457
+#EXTINF:-1,BR: SBT SP HD
+http://starsat123.com:8080/obsexchange/telgrammm/53458
+#EXTINF:-1,BR: SBT TV Jornal Pernambuco
+http://starsat123.com:8080/obsexchange/telgrammm/53460
+#EXTINF:-1,BR: Space HD
+http://starsat123.com:8080/obsexchange/telgrammm/53461
+#EXTINF:-1,BR: SporTV 2 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53463
+#EXTINF:-1,BR: SporTV 3 HD
+http://starsat123.com:8080/obsexchange/telgrammm/53465
+#EXTINF:-1,BR: SporTV HD
+http://starsat123.com:8080/obsexchange/telgrammm/53468
+#EXTINF:-1,BR: Studio Universal HD
+http://starsat123.com:8080/obsexchange/telgrammm/53471
+#EXTINF:-1,BR: SyFy HD
+http://starsat123.com:8080/obsexchange/telgrammm/53474
+#EXTINF:-1,BR: TBS HD
+http://starsat123.com:8080/obsexchange/telgrammm/53476
+#EXTINF:-1,BR: TCM  HD
+http://starsat123.com:8080/obsexchange/telgrammm/53478
+#EXTINF:-1,Telecine Action HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53480
+#EXTINF:-1,Telecine Action HD
+http://starsat123.com:8080/obsexchange/telgrammm/53481
+#EXTINF:-1,BR: Telecine Cult HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53483
+#EXTINF:-1,BR: Telecine Cult HD
+http://starsat123.com:8080/obsexchange/telgrammm/53484
+#EXTINF:-1,BR: Telecine Fun HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53486
+#EXTINF:-1,BR: Telecine Fun HD
+http://starsat123.com:8080/obsexchange/telgrammm/53488
+#EXTINF:-1,BR: Telecine Pipoca HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53489
+#EXTINF:-1,BR: Telecine Pipoca HD
+http://starsat123.com:8080/obsexchange/telgrammm/53490
+#EXTINF:-1,BR: Telecine Premium HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53492
+#EXTINF:-1,BR: Telecine Touch HD LEGENDADO
+http://starsat123.com:8080/obsexchange/telgrammm/53495
+#EXTINF:-1,BR: Telecine Touch HD
+http://starsat123.com:8080/obsexchange/telgrammm/53496
+#EXTINF:-1,BR: TNT HD
+http://starsat123.com:8080/obsexchange/telgrammm/53499
+#EXTINF:-1,BR: TNT Séries HD
+http://starsat123.com:8080/obsexchange/telgrammm/53501
+#EXTINF:-1,Sport Tv 2 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40156
+#EXTINF:-1,Telecine Pipoca HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40153
+#EXTINF:-1,Sport Tv 3 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40157
+#EXTINF:-1,Sport Tv HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40158
+#EXTINF:-1,VIP_BR:PREMIERE 2 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40159
+#EXTINF:-1,VIP_BR:PREMIERE 3 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40160
+#EXTINF:-1,VIP_BR:PREMIERE 4 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40161
+#EXTINF:-1,VIP_BR:PREMIERE 5 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40162
+#EXTINF:-1,VIP_BR:PREMIERE 7 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40164
+#EXTINF:-1,VIP_BR:PREMIERE 6 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40163
+#EXTINF:-1,Discovery H&H HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40167
+#EXTINF:-1,Dicovery ID HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40168
+#EXTINF:-1,Dicovery Science HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40170
+#EXTINF:-1,VIP_BR:PREMIERE 8 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40165
