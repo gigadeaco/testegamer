@@ -40,7 +40,64 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31544
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31545
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Club [4K]
+http://pfsv.io:80/33732940/14864/584
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://pfsv.io:80/33732940/14864/524
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://pfsv.io:80/33732940/14864/30287
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://pfsv.io:80/33732940/14864/537
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://pfsv.io:80/33732940/14864/544
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://pfsv.io:80/33732940/14864/525
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://pfsv.io:80/33732940/14864/30284
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://pfsv.io:80/33732940/14864/531
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://pfsv.io:80/33732940/14864/538
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://pfsv.io:80/33732940/14864/30285
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://pfsv.io:80/33732940/14864/526
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://pfsv.io:80/33732940/14864/532
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+http://pfsv.io:80/33732940/14864/539
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://pfsv.io:80/33732940/14864/527
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://pfsv.io:80/33732940/14864/30288
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://pfsv.io:80/33732940/14864/533
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+http://pfsv.io:80/33732940/14864/540
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://pfsv.io:80/33732940/14864/528
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://pfsv.io:80/33732940/14864/30286
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://pfsv.io:80/33732940/14864/534
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+http://pfsv.io:80/33732940/14864/541
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://pfsv.io:80/33732940/14864/529
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://pfsv.io:80/33732940/14864/30289
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://pfsv.io:80/33732940/14864/535
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+http://pfsv.io:80/33732940/14864/542
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://pfsv.io:80/33732940/14864/530
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://pfsv.io:80/33732940/14864/30290
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://pfsv.io:80/33732940/14864/536
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+http://pfsv.io:80/33732940/14864/543
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://177.71.71.83:8001/play/espn
 
@@ -52,22 +109,27 @@ http://177.71.71.83:8001/play/espnbrasil
 
 #EXTINF:-1 group-title="ESPORTES",ESPN Extra
 http://177.71.71.83:8000/play/espnextra
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Estadio TNT Sports 5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="Deportes",PREMIERE br
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",PREMIERE SPORTS 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNBrasil.us" group-title="Deportes",ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSportsBrasil.us" group-title="Deportes",FOX SPORTS
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" group-title="Deportes",SPORTV 1 br
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="Deportes",SPORTV 3 br
 #EXTINF:-1 group-title="ESPORTES",Fox Sports
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
 
