@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="ESPORTES",All Sports
-https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
-
+http://api.magiaiptv.com/live/800195/918609/p2_wAhvdtYSSpFDqL2XTgG1
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://177.71.71.83:8000/play/bandsports
+http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_720p_2M
 EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31525
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
@@ -38,8 +37,8 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31543
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31544
 #EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31545
-#EXTINF:-1 group-title="ESPORTES",Combate World
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="ESPORTES",PREM1080
+http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_1080p
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Club [4K]
 http://pfsv.io:80/33732940/14864/584
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
