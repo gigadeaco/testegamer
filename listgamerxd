@@ -4,7 +4,40 @@ https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://177.71.71.83:8000/play/bandsports
-
+EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31525
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31526
+#EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31527
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31528
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31529
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31531
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31532
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31533
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31535
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31536
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31537
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31539
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31540
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31542
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31543
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31544
+#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31545
 #EXTINF:-1 group-title="ESPORTES",Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -68,9 +101,40 @@ http://177.71.71.83:8000/play/premiere5
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://177.71.71.83:8000/play/sportv
 
+#EXTINF:-1 group-title="ESPORTES",SporTVi
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/7791
+
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://177.71.71.83:8000/play/sportv2
 
+#EXTINF:-1 group-title="Lista 14",SPORTV 2i
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/7792
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 2
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29332
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 3
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29333
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 4
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29334
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 5
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29335
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 6
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29336
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 7
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29337
+#EXTINF:-1 group-title="Lista 14",BRA - PREM CLUBES EXTRA
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29338
+#EXTINF:-1 group-title="Lista 14",BRA - PREM 1
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29339
+#EXTINF:-1 group-title="Lista 14",BRA - PREM CLUBES
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29199
+#EXTINF:-1" group-title="SPORT",BRSporTV
+http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82975
+#EXTINF:-1" group-title="SPORT",BRSporTV 2
+http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82976
+#EXTINF:-1" group-title="SPORT",BRSporTV 3
+http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82977
+#EXTINF:-1" group-title="SPORT",BRPREMIERE CLUBES HD
+http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82979
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
