@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ESPORTES",All Sports
-http://api.magiaiptv.com/live/800195/918609/p2_wAhvdtYSSpFDqL2XTgG1
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_720p_2M
 EXTINF:-1 tvg-id="Premiere Clubes new" tvg-name="PREMIERE CLUBES new" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAISnew: PREMIERE",PREMIERE CLUBES NEW
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
+
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31526
 #EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
@@ -390,35 +390,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="Esportes",SporTV HD
 http://21eua10alpha.cf/HD_SOKASJDH_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0 
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE CLUBES HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82406
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 2 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82405
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 3 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82404
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 4 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82403
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 5 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82402
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 6 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82401
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| PREMIERE 7 HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82400
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE PREMIUM HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82399
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TNT HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82398
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TNT SERIES HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82397
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE ACTION HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82396
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE CULT HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82395
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE FUN HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82394
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE PIPOCA HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82393
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| TELECINE TOUCH HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82392
-#EXTINF:0 tvg-id="ext" group-title="|BR| BRAZIL",|BR| WARNER CHANNEL HD
-http://carre.flysat.live:80/152051650951751/152030159243093/82391
+
