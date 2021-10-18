@@ -3,8 +3,8 @@
 http://api.magiaiptv.com/live/800195/918609/p2_wAhvdtYSSpFDqL2XTgG1
 #EXTINF:-1 group-title="ESPORTES",Band Sports
 http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_720p_2M
-EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
-http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31525
+EXTINF:-1 tvg-id="Premiere Clubes new" tvg-name="PREMIERE CLUBES new" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAISnew: PREMIERE",PREMIERE CLUBES NEW
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31526
 #EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
