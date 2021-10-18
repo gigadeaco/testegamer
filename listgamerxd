@@ -66,355 +66,43 @@ http://pfsv.io:80/jjNPk4T8/54860/543
 
 #EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Premiere Internacional
 http://pfsv.io:80/jjNPk4T8/54860/501
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Club [4K]
-http://pfsv.io:80/33732940/14864/584
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://pfsv.io:80/33732940/14864/524
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://pfsv.io:80/33732940/14864/30287
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://pfsv.io:80/33732940/14864/537
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
-http://pfsv.io:80/33732940/14864/544
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://pfsv.io:80/33732940/14864/525
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://pfsv.io:80/33732940/14864/30284
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://pfsv.io:80/33732940/14864/531
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
-http://pfsv.io:80/33732940/14864/538
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://pfsv.io:80/33732940/14864/30285
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://pfsv.io:80/33732940/14864/526
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://pfsv.io:80/33732940/14864/532
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
-http://pfsv.io:80/33732940/14864/539
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://pfsv.io:80/33732940/14864/527
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://pfsv.io:80/33732940/14864/30288
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://pfsv.io:80/33732940/14864/533
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
-http://pfsv.io:80/33732940/14864/540
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://pfsv.io:80/33732940/14864/528
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://pfsv.io:80/33732940/14864/30286
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://pfsv.io:80/33732940/14864/534
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
-http://pfsv.io:80/33732940/14864/541
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://pfsv.io:80/33732940/14864/529
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://pfsv.io:80/33732940/14864/30289
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://pfsv.io:80/33732940/14864/535
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
-http://pfsv.io:80/33732940/14864/542
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://pfsv.io:80/33732940/14864/530
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://pfsv.io:80/33732940/14864/30290
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://pfsv.io:80/33732940/14864/536
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
-http://pfsv.io:80/33732940/14864/543
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://177.71.71.83:8001/play/espn
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png" group-title=" Canais | Esporte",ESPN FHD
+http://pfsv.io:80/jjNPk4T8/54860/251
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png" group-title=" Canais | Esporte",ESPN FHD [H265]
+http://pfsv.io:80/jjNPk4T8/54860/30281
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png" group-title=" Canais | Esporte",ESPN HD
+http://pfsv.io:80/jjNPk4T8/54860/261
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png" group-title=" Canais | Esporte",ESPN SD
+http://pfsv.io:80/jjNPk4T8/54860/267
+#EXTINF:-1 tvg-logo="http://p6.vc/f0l" group-title="Canais | Esporte",ESPN [4K]
+http://pfsv.io:80/jjNPk4T8/54860/595
 
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://177.71.71.83:8000/play/espn2
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png" group-title=" Canais | Esporte",ESPN Brasil FHD
+http://pfsv.io:80/jjNPk4T8/54860/250
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png" group-title=" Canais | Esporte",ESPN Brasil FHD[H265]
+http://pfsv.io:80/jjNPk4T8/54860/30280
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png" group-title=" Canais | Esporte",ESPN Brasil HD
+http://pfsv.io:80/jjNPk4T8/54860/259
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png" group-title=" Canais | Esporte",ESPN Brasil SD
+http://pfsv.io:80/jjNPk4T8/54860/269
+#EXTINF:-1 tvg-logo="http://z4.vc/2zo" group-title="Canais | Esporte",ESPN Brasil [4K]
+http://pfsv.io:80/jjNPk4T8/54860/50872
 
-#EXTINF:-1 group-title="ESPORTES",ESPN Brasil
-http://177.71.71.83:8001/play/espnbrasil
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png" group-title=" Canais | Esportes",ESPN 2 FHD
+http://pfsv.io:80/jjNPk4T8/54860/254
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png" group-title=" Canais | Esportes",ESPN 2 FHD[H265]
+http://pfsv.io:80/jjNPk4T8/54860/30277
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png" group-title=" Canais | Esportes",ESPN 2 HD
+http://pfsv.io:80/jjNPk4T8/54860/258
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png" group-title=" Canais | Esportes",ESPN 2 SD
+http://pfsv.io:80/jjNPk4T8/54860/268
 
-#EXTINF:-1 group-title="ESPORTES",ESPN Extra
-http://177.71.71.83:8000/play/espnextra
-#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",sport Brasile 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="Deportes",PREMIERE br
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",PREMIERE SPORTS 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNBrasil.us" group-title="Deportes",ESPN BRASIL
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSportsBrasil.us" group-title="Deportes",FOX SPORTS
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
-#EXTINF:-1 tvg-id="SporTV.br" group-title="Deportes",SPORTV 1 br
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="Deportes",SPORTV 3 br
-#EXTINF:-1 group-title="ESPORTES",Fox Sports
-https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
-
-#EXTINF:-1 group-title="ESPORTES",Fox Sports [Opcao 2]
-http://200.194.238.229:8000/udp/225.1.1.7:1234
-
-#EXTINF:-1 group-title="ESPORTES",Fox Sports 2
-http://200.194.238.229:8000/udp/225.1.1.6:1234
-
-#EXTINF:-1 group-title="ESPORTES",Gol TV Brasil
-https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Off
-http://177.71.71.83:8000/play/off
-
-#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://177.71.71.83:8000/play/premiereclubes
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://177.71.71.83:8000/play/premiere2
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://177.71.71.83:8000/play/premiere3
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://177.71.71.83:8001/play/premiere4
-
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
-http://177.71.71.83:8000/play/premiere5
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-http://177.71.71.83:8000/play/sportv
-
-#EXTINF:-1 group-title="ESPORTES",SporTVi
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/7791
-
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
-http://177.71.71.83:8000/play/sportv2
-
-#EXTINF:-1 group-title="Lista 14",SPORTV 2i
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/7792
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 2
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29332
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 3
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29333
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 4
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29334
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 5
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29335
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 6
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29336
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 7
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29337
-#EXTINF:-1 group-title="Lista 14",BRA - PREM CLUBES EXTRA
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29338
-#EXTINF:-1 group-title="Lista 14",BRA - PREM 1
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29339
-#EXTINF:-1 group-title="Lista 14",BRA - PREM CLUBES
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29199
-#EXTINF:-1" group-title="SPORT",BRSporTV
-http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82975
-#EXTINF:-1" group-title="SPORT",BRSporTV 2
-http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82976
-#EXTINF:-1" group-title="SPORT",BRSporTV 3
-http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82977
-#EXTINF:-1" group-title="SPORT",BRPREMIERE CLUBES HD
-http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/82979
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
-https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 2 [Ao Vivo]
-https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
-https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Woohoo
-http://177.20.208.58:8000/play/a022/index.m3u8
-#EXTINF:-1,Megapix HD
-http://starsat123.com:8080/obsexchange/telgrammm/53400
-#EXTINF:-1,MTV HD
-http://starsat123.com:8080/obsexchange/telgrammm/53402
-#EXTINF:-1,BR: Multishow  HD
-http://starsat123.com:8080/obsexchange/telgrammm/53404
-#EXTINF:-1,Music Box Brazil
-http://starsat123.com:8080/obsexchange/telgrammm/53406
-#EXTINF:-1,Nat Geo  HD
-http://starsat123.com:8080/obsexchange/telgrammm/53407
-#EXTINF:-1,BR: Nat Geo Kids HD
-http://starsat123.com:8080/obsexchange/telgrammm/53408
-#EXTINF:-1,Nat Geo Wild HD
-http://starsat123.com:8080/obsexchange/telgrammm/53412
-#EXTINF:-1,Nick Jr HD
-http://starsat123.com:8080/obsexchange/telgrammm/53415
-#EXTINF:-1,Nickelodeon HD
-http://starsat123.com:8080/obsexchange/telgrammm/53417
-#EXTINF:-1,Novo Tempo
-http://starsat123.com:8080/obsexchange/telgrammm/53419
-#EXTINF:-1,OFF HD
-http://starsat123.com:8080/obsexchange/telgrammm/53420
-#EXTINF:-1,BR: Paramount Channel HD
-http://starsat123.com:8080/obsexchange/telgrammm/53423
-#EXTINF:-1,Play TV
-http://starsat123.com:8080/obsexchange/telgrammm/53425
-#EXTINF:-1,BR: Premiere 2 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53427
-#EXTINF:-1,BR: Premiere 3 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53429
-#EXTINF:-1,BR: Premiere 4 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53431
-#EXTINF:-1,BR: Premiere 5 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53433
-#EXTINF:-1,BR: Premiere 6
-http://starsat123.com:8080/obsexchange/telgrammm/53435
-#EXTINF:-1,BR: Premiere 7
-http://starsat123.com:8080/obsexchange/telgrammm/53436
-#EXTINF:-1,BR: Premiere Clubes Extra
-http://starsat123.com:8080/obsexchange/telgrammm/53437
-#EXTINF:-1,BR: Premiere Clubes HD
-http://starsat123.com:8080/obsexchange/telgrammm/53439
-#EXTINF:-1,Record HD
-http://starsat123.com:8080/obsexchange/telgrammm/53441
-#EXTINF:-1,Record Campinas  HD
-http://starsat123.com:8080/obsexchange/telgrammm/53443
-#EXTINF:-1,BR: Record MINAS HD
-http://starsat123.com:8080/obsexchange/telgrammm/53444
-#EXTINF:-1,BR: Record News HD
-http://starsat123.com:8080/obsexchange/telgrammm/53445
-#EXTINF:-1,BR: Record RJ HD
-http://starsat123.com:8080/obsexchange/telgrammm/53447
-#EXTINF:-1,BR: Record SP HD
-http://starsat123.com:8080/obsexchange/telgrammm/53449
-#EXTINF:-1,Rede Familia
-http://starsat123.com:8080/obsexchange/telgrammm/53450
-#EXTINF:-1,BR: Rede Gospel
-http://starsat123.com:8080/obsexchange/telgrammm/53451
-#EXTINF:-1,BR: Rede TV
-http://starsat123.com:8080/obsexchange/telgrammm/53452
-#EXTINF:-1,BR: Rede Vida
-http://starsat123.com:8080/obsexchange/telgrammm/53453
-#EXTINF:-1,SBT  HD
-http://starsat123.com:8080/obsexchange/telgrammm/53454
-#EXTINF:-1,SBT Brasilia
-http://starsat123.com:8080/obsexchange/telgrammm/53456
-#EXTINF:-1,BR: SBT RJ HD
-http://starsat123.com:8080/obsexchange/telgrammm/53457
-#EXTINF:-1,BR: SBT SP HD
-http://starsat123.com:8080/obsexchange/telgrammm/53458
-#EXTINF:-1,BR: SBT TV Jornal Pernambuco
-http://starsat123.com:8080/obsexchange/telgrammm/53460
-#EXTINF:-1,BR: Space HD
-http://starsat123.com:8080/obsexchange/telgrammm/53461
-#EXTINF:-1,BR: SporTV 2 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53463
-#EXTINF:-1,BR: SporTV 3 HD
-http://starsat123.com:8080/obsexchange/telgrammm/53465
-#EXTINF:-1,BR: SporTV HD
-http://starsat123.com:8080/obsexchange/telgrammm/53468
-#EXTINF:-1,BR: Studio Universal HD
-http://starsat123.com:8080/obsexchange/telgrammm/53471
-#EXTINF:-1,BR: SyFy HD
-http://starsat123.com:8080/obsexchange/telgrammm/53474
-#EXTINF:-1,BR: TBS HD
-http://starsat123.com:8080/obsexchange/telgrammm/53476
-#EXTINF:-1,BR: TCM  HD
-http://starsat123.com:8080/obsexchange/telgrammm/53478
-#EXTINF:-1,Telecine Action HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53480
-#EXTINF:-1,Telecine Action HD
-http://starsat123.com:8080/obsexchange/telgrammm/53481
-#EXTINF:-1,BR: Telecine Cult HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53483
-#EXTINF:-1,BR: Telecine Cult HD
-http://starsat123.com:8080/obsexchange/telgrammm/53484
-#EXTINF:-1,BR: Telecine Fun HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53486
-#EXTINF:-1,BR: Telecine Fun HD
-http://starsat123.com:8080/obsexchange/telgrammm/53488
-#EXTINF:-1,BR: Telecine Pipoca HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53489
-#EXTINF:-1,BR: Telecine Pipoca HD
-http://starsat123.com:8080/obsexchange/telgrammm/53490
-#EXTINF:-1,BR: Telecine Premium HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53492
-#EXTINF:-1,BR: Telecine Touch HD LEGENDADO
-http://starsat123.com:8080/obsexchange/telgrammm/53495
-#EXTINF:-1,BR: Telecine Touch HD
-http://starsat123.com:8080/obsexchange/telgrammm/53496
-#EXTINF:-1,BR: TNT HD
-http://starsat123.com:8080/obsexchange/telgrammm/53499
-#EXTINF:-1,BR: TNT Séries HD
-http://starsat123.com:8080/obsexchange/telgrammm/53501
-#EXTINF:-1,Sport Tv 2 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40156
-#EXTINF:-1,Telecine Pipoca HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40153
-#EXTINF:-1,Sport Tv 3 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40157
-#EXTINF:-1,Sport Tv HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40158
-#EXTINF:-1,VIP_BR:PREMIERE 2 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40159
-#EXTINF:-1,VIP_BR:PREMIERE 3 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40160
-#EXTINF:-1,VIP_BR:PREMIERE 4 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40161
-#EXTINF:-1,VIP_BR:PREMIERE 5 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40162
-#EXTINF:-1,VIP_BR:PREMIERE 7 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40164
-#EXTINF:-1,VIP_BR:PREMIERE 6 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40163
-#EXTINF:-1,Discovery H&H HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40167
-#EXTINF:-1,Dicovery ID HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40168
-#EXTINF:-1,Dicovery Science HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40170
-#EXTINF:-1,VIP_BR:PREMIERE 8 HD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40165
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes HD
-http://20eua10india.cf/HD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes SD
-http://20eua10india.cf/SD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2 HD
-http://13ca3india.ga/HD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2 SD
-http://13ca3india.ga/SD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 3 HD
-http://13ca3india.ga/HD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 3 SD
-http://13ca3india.ga/SD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 4 HD
-http://13ca3foxtrot.ga/HD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 4 SD
-http://13ca3foxtrot.ga/SD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5 HD
-http://12ca3echo.ga/HD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 5 SD
-http://12ca3echo.ga/SD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 6 HD
-http://13ca3echo.ga/HD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 6 SD
-http://13ca3echo.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" ,Red Bull TV(inglês)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="Esportes",SporTV HD
-http://21eua10alpha.cf/HD_SOKASJDH_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0 
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png" group-title=" Canais | Esporte",ESPN Extra FHD
+http://pfsv.io:80/jjNPk4T8/54860/248
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png" group-title=" Canais | Esporte",ESPN Extra FHD [H265]
+http://pfsv.io:80/jjNPk4T8/54860/30278
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png" group-title=" Canais | Esporte",ESPN Extra HD
+http://pfsv.io:80/jjNPk4T8/54860/260
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png" group-title=" Canais | Esporte",ESPN Extra SD
+http://pfsv.io:80/jjNPk4T8/54860/270
 
