@@ -1,44 +1,30 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://187.19.165.103:8181/play/a00a/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 http://187.19.165.103:8181/play/a00b/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Premiere 3
 http://189.91.128.146:4444/udp/227.10.20.105:1234
-
 #EXTINF:-1 group-title="ESPORTES",Premiere 4
 http://189.91.128.146:4444/udp/227.10.20.106:1234
-
 #EXTINF:-1 group-title="ESPORTES",Premiere 5
 http://189.91.128.146:4444/udp/227.10.20.107:1234
-
 #EXTINF:-1 group-title="ESPORTES",Premiere 6
 http://189.91.128.146:4444/udp/227.10.20.123:1234
-
 #EXTINF:-1 group-title="ESPORTES",SporTV
 http://177.71.71.83:8000/play/sportv
-
 #EXTINF:-1 group-title="ESPORTES",SporTV 2
 http://177.71.71.83:8000/play/sportv2
-
 #EXTINF:-1 group-title="ESPORTES",SporTV 3
 http://45.232.196.38:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 2 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
 https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
-
 #EXTINF:-1,ESPN Brasil
 http://rec2.distv.net:80/damaris/123456/144
 #EXTINF:-1,FOX Sports
@@ -55,8 +41,6 @@ http://rec2.distv.net:80/damaris/123456/182
 http://rec2.distv.net:80/damaris/123456/237
 #EXTINF:-1,Premiere Clubes
 http://rec2.distv.net:80/damaris/123456/184
-
-_____________________________
 #EXTINF:-1,Premiere Clubes 4K
 http://dns.icut.live:80/49261616/23896204/220
 #EXTINF:-1,PREMIERE CLUBES SD
