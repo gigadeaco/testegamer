@@ -1,61 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere Clubes FHD
-http://pfsv.io:80/jjNPk4T8/54860/524
-#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia MOTORI" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia MOTORI
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia LIVE24
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia SOLOCALCIO
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Canal | Esportes", TNT SPORTS
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Canal | Esportes",ESPN
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
+http://187.19.165.103:8181/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="" group-title="Canal | Esportes",ESPN BRASIL
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://187.19.165.103:8181/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Canal | Esportes",BAND SPORTS HD
-https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_1.m3u8
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://189.91.128.146:4444/udp/227.10.20.105:1234
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canal | Esportes",Premiere Clubes HD
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
-https://idiptv.000webhostapp.com/painel/redir.php?acesso=13a4dd99e6a87b0510820c5437940385&usuario=f354c19a44cf3e8566c4945ef6fac095
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://189.91.128.146:4444/udp/227.10.20.106:1234
 
-#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canal | Esportes",Premiere Clubes FHD
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
-https://idiptv.000webhostapp.com/painel/redir.php?acesso=38857c14a073459af06f1d9f2b3345ef&usuario=f354c19a44cf3e8566c4945ef6fac095
-#EXTM3U
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://189.91.128.146:4444/udp/227.10.20.107:1234
 
-#EXTINF:-1, tvg-logo=" ESPN SD https://2205.janjua.pw:8088/live/aovivotudo_espn/playlist.m3u8?id=89358&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
 
-#EXTM3U
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://177.71.71.83:8000/play/sportv
 
-#EXTINF:-1, tvg-logo=" ESPN HD https://2205.janjua.pw:8088/live/aovivotudo_espn/playlist.m3u8?vidictid=189222339312&id=89358&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+http://177.71.71.83:8000/play/sportv2
 
-#EXTM3U
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+http://45.232.196.38:8000/play/a05w/index.m3u8
 
-#EXTINF:-1, tvg-logo=" ESPN BRASIL SD https://2d02.janjua.pw:8088/live/aovivotudo_espnbr/playlist.m3u8?id=89359&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 1 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
 
-#EXTM3U
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 2 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
 
-#EXTINF:-1, tvg-logo=" ESPN BRASIL HD https://2d02.janjua.pw:8088/live/aovivotudo_espnbr/playlist.m3u8?vidictid=189221507794&id=89359&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
+#EXTINF:-1 group-title="ESPORTES",TNT Sports 3 [Ao Vivo]
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
 
-#EXTM3U
+#EXTINF:-1 group-title="ESPORTES",Woohoo
+http://168.205.87.198:8555/live/adriana/123456/141.m3u8
 
-#EXTINF:-1, tvg-logo=" ESPN MAIS SD https://2204lw.janjua.pw:8088/live/aovivotudo_espnmais/playlist.m3u8?id=89360&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
+#EXTINF:-1,ESPN Brasil
+http://rec2.distv.net:80/damaris/123456/144
+#EXTINF:-1,FOX Sports
+http://rec2.distv.net:80/damaris/123456/152
+#EXTINF:-1,Premiere 2
+http://rec2.distv.net:80/damaris/123456/179
+#EXTINF:-1,Premiere 3
+http://rec2.distv.net:80/damaris/123456/180
+#EXTINF:-1,Premiere 4
+http://rec2.distv.net:80/damaris/123456/181
+#EXTINF:-1,Premiere 5
+http://rec2.distv.net:80/damaris/123456/182
+#EXTINF:-1,Premiere 7
+http://rec2.distv.net:80/damaris/123456/237
+#EXTINF:-1,Premiere Clubes
+http://rec2.distv.net:80/damaris/123456/184
 
-#EXTM3U
-
-#EXTINF:-1, tvg-logo=" ESPN MAIS HD https://2204lw.janjua.pw:8088/live/aovivotudo_espnmais/playlist.m3u8?vidictid=189226948878&id=89360&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
-
-#EXTM3U
+_____________________________
+#EXTINF:-1,Premiere Clubes 4K
+http://dns.icut.live:80/49261616/23896204/220
+#EXTINF:-1,PREMIERE CLUBES SD
+http://dns.icut.live:80/49261616/23896204/720
+#EXTINF:-1,PREMIERE 2 HD
+http://dns.icut.live:80/49261616/23896204/702
+#EXTINF:-1,PREMIERE 3 FHD
+http://dns.icut.live:80/49261616/23896204/704
+#EXTINF:-1,PREMIERE 6 HD
+http://dns.icut.live:80/49261616/23896204/713
+#EXTINF:-1,PREMIERE 7 SD
+http://dns.icut.live:80/49261616/23896204/716
+#EXTINF:-1,Premiere2 (H265)
+http://dns.icut.live:80/49261616/23896204/13912
+#EXTINF:-1,Premiere4 (H265)
+http://dns.icut.live:80/49261616/23896204/13914
