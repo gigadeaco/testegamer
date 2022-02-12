@@ -1,46 +1,55 @@
-#EXTINF:-1 tvg-name="BBB 22 - ACADEMIA" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACADEMIA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139834.ts
-#EXTINF:-1 tvg-name="BBB 22 - ACADEMIA²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACADEMIA²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139620.ts
-#EXTINF:-1 tvg-name="BBB 22 - ACOMPANHE A CASA 1" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACOMPANHE A CASA 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139826.ts
-#EXTINF:-1 tvg-name="BBB 22 - ACOMPANHE A CASA 1²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACOMPANHE A CASA 1²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139609.ts
-#EXTINF:-1 tvg-name="BBB 22 - ACOMPANHE A CASA 2" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139827.ts
-#EXTINF:-1 tvg-name="BBB 22 - ACOMPANHE A CASA 2²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - ACOMPANHE A CASA 2²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139610.ts
-#EXTINF:-1 tvg-name="BBB 22 - CHUVEIRO" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - CHUVEIRO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139835.ts
-#EXTINF:-1 tvg-name="BBB 22 - CHUVEIRO²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - CHUVEIRO²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139615.ts
-#EXTINF:-1 tvg-name="BBB 22 - CONFESSIONARIO" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - CONFESSIONARIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139836.ts
-#EXTINF:-1 tvg-name="BBB 22 - CONFESSIONARIO²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - CONFESSIONARIO²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139612.ts
-#EXTINF:-1 tvg-name="BBB 22 - COZINHA" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - COZINHA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139831.ts
-#EXTINF:-1 tvg-name="BBB 22 - COZINHA²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - COZINHA²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139616.ts
-#EXTINF:-1 tvg-name="BBB 22 - JARDIM" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - JARDIM
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139833.ts
-#EXTINF:-1 tvg-name="BBB 22 - JARDIM²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - JARDIM²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139619.ts
-#EXTINF:-1 tvg-name="BBB 22 - MOSAICO" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - MOSAICO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139837.ts
-#EXTINF:-1 tvg-name="BBB 22 - PISCINA" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - PISCINA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139832.ts
-#EXTINF:-1 tvg-name="BBB 22 - PISCINA²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - PISCINA²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139618.ts
-#EXTINF:-1 tvg-name="BBB 22 - QUARTO GRUNGE" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - QUARTO GRUNGE
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139829.ts
-#EXTINF:-1 tvg-name="BBB 22 - QUARTO GRUNGE²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - QUARTO GRUNGE²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139614.ts
-#EXTINF:-1 tvg-name="BBB 22 - QUARTO LOLLIPOP" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - QUARTO LOLLIPOP
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139828.ts
-#EXTINF:-1 tvg-name="BBB 22 - QUARTO LOLLIPOP²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - QUARTO LOLLIPOP²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139613.ts
-#EXTINF:-1 tvg-name="BBB 22 - SALA" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - SALA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139830.ts
-#EXTINF:-1 tvg-name="BBB 22 - SALA²" tvg-logo="http://dns.ulttv.xyz/i/bbb22.png", BBB 22 - SALA²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://dns.ulttv.xyz:80/live/lourdes01/14999064193/139617.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",BBB Mosaico
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27260
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Acompanhe a casa 1
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27071
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Acompanhe a casa 2
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27259
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Camera Globoplay
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27331
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Quarto
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27332
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Quarto
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27333
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Sala
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27334
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Sala
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27335
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Piscina
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27336
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Piscina
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27337
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="BBB Painel",Academia
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27338
+
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB PRINCIPAL
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49277
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 01
+http://ccdnblck.xyz:80/Andre2022/2022Andre/40479
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 02
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49278
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 03
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49279
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 04
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49281
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 05
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49282
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 06
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49283
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 07
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49284
+#EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 08
+http://ccdnblck.xyz:80/Andre2022/2022Andre/49285
+
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB Mosaico SD
+http://b5.vc:80/Jhonleno/102030/147209.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB Mosaico HD
+http://b5.vc:80/Jhonleno/102030/147208.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB SD 1
+http://b5.vc:80/Jhonleno/102030/147203.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB 1 HD
+http://b5.vc:80/Jhonleno/102030/147202.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB SD 2
+http://b5.vc:80/Jhonleno/102030/147206.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB HD 2
+http://b5.vc:80/Jhonleno/102030/147205.ts
