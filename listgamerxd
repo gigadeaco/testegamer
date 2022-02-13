@@ -23,3 +23,33 @@ http://api.magiaiptv.com/live/800364/107211/m1_JCr0n6KJkWbSR5_720p_2M
 http://api.magiaiptv.com/live/800364/107211/m1_JCr0n6KJkWbSR5_1080p
 #EXTINF:-1 tvg-id="BBB CAM 2" tvg-name="BBB CAM 2 (S)" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6f4bc37d-1221-4ca6-beab-9aab2defe12b" group-title="Big Brother Brasil 2022",BBB 1 HD
 http://api.magiaiptv.com/live/800364/107211/m1_jEFNwvhSJIGHIAc7A_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/71bc8c46-ea88-11e9-86cb-003048de22c4" parent-code="" group-title="Esportes", ESPN Brasil HD
+http://api.magiaiptv.com/live/800364/107211/m3_ScQBL06LuJftF_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8898e48c-ea88-11e9-b704-003048de22c4" parent-code="" group-title="Esportes", ESPN Brasil HD+
+http://api.magiaiptv.com/live/800364/107211/m3_ScQBL06LuJftF_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b4ef0798-a2ab-11e9-8f92-003048de22c4" parent-code="" group-title="NooXTV", ESPN Brasil UHD
+http://api.magiaiptv.com/live/800364/107211/m3_ScQBL06LuJftF_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/33591232-c99b-4cc5-a530-01f696bd2c95" parent-code="" group-title="Esportes", ESPN EXTRA HD
+http://api.magiaiptv.com/live/800364/107211/m1_ByxjeSWip68MPJsHRqZ2vku_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3665dc44-a5c4-469f-9e9a-605eb3312476" parent-code="" group-title="Esportes", ESPN HD
+http://api.magiaiptv.com/live/800364/107211/m1_jK8qbRUeI8qNMLCC_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/97b1bb43-b1b1-4144-b6dc-bf158dc30994" parent-code="" group-title="Esportes", ESPN HD+
+http://api.magiaiptv.com/live/800364/107211/m1_jK8qbRUeI8qNMLCC_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2f3227e-a2ab-11e9-8208-003048de22c4" parent-code="" group-title="Esportes", ESPN UHD
+http://api.magiaiptv.com/live/800364/107211/m1_ZLeLkHOSgiYq548T_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9e5591c3-d00a-4b8c-9f45-dd7e53a7016e" parent-code="" group-title="Esportes", ESR HD
+http://api.magiaiptv.com/live/800364/107211/m2_Vbbc8fWnV5dAdjwwT_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/49f69552-ee8b-44b5-8758-1193cf95ef15" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 1
+http://api.magiaiptv.com/live/800364/107211/m2_DNIF0PUhNW1g6rLkvJ_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5428b08c-db93-496e-bd44-53b062e26fb8" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 2
+http://api.magiaiptv.com/live/800364/107211/m2_FSUaOZHBv5V1uFsXmX_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/68fa8824-54da-43bc-b498-d9205903bdb2" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 3
+http://api.magiaiptv.com/live/800364/107211/m2_fiGS04Kp4Ejt6Bq2Y_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ca245cf8-c516-483d-a328-392f5e1fa846" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 4
+http://api.magiaiptv.com/live/800364/107211/m1_rfHcDhnzwioSRNyb8p_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d53de9b5-ea7a-4a12-8f44-dbc21d088499" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 5
+http://api.magiaiptv.com/live/800364/107211/m2_Bnug4mAhq3JRCEsY_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d09c6ed5-10a3-4246-950e-bfe21fdb7567" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 6
+http://api.magiaiptv.com/live/800364/107211/m3_jpy3xfTUswF7B5jem_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/70cbb8c2-82d0-489c-94e2-53523701837b" parent-code="" group-title="Esportes", ESTADIO TNT SPORTS 7
+http://api.magiaiptv.com/live/800364/107211/m1_KT5wshpEIPzYTojEjc7_720p
