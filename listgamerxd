@@ -15,27 +15,3 @@ http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37105.ts
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37104.ts
 #EXTINF:-1 tvg-id="startv" tvg-name="star1" tvg-logo="https://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports 
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/73053.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/ICsDSk5.png" group-title="Variedades e Músicas",Multishow
-http://50.7.34.155:2201/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 1 HD
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 2 HD
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 3 HD
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 4 HD
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 5 HD
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="https://i.imgur.com/uhdzG0P.png" group-title="Esportes",Fox Sports 2
-http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
