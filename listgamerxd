@@ -15,6 +15,12 @@ http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37105.ts
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37104.ts
 #EXTINF:-1 tvg-id="startv" tvg-name="star1" tvg-logo="https://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports 
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/73053.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" parent-code="" group-title="NooXTV", MULTISHOW HD
+http://api.magiaiptv.com/live/800364/107211/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" parent-code="" group-title="NooXTV", MULTISHOW HD+
+http://api.magiaiptv.com/live/800364/107211/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/32b3f4b3-4f84-47e0-a717-153e1d0a7202" parent-code="" group-title="NooXTV", MULTISHOW UHD
+http://api.magiaiptv.com/live/800364/107211/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p
 #EXTINF:-1 tvg-id="startv" tvg-name="bands" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c5112d4c-a732-40d9-99cb-facf465b37ad" group-title="Esportes", BAND Sports HD
 http://api.magiaiptv.com/live/800364/107211/m1_JCr0n6KJkWbSR5_720p
 #EXTINF:-1 tvg-id="startv" tvg-name="bands" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c5112d4c-a732-40d9-99cb-facf465b37ad" parent-code="" group-title="Esportes", BAND Sports HD+
