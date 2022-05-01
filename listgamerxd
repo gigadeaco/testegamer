@@ -1,16 +1,9 @@
 #EXTM3U
-
-
-#######################
-###### TV ABERTA ######
-#######################
-
-
 #EXTINF:-1 group-title="TV ABERTA",Band [1]
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31038
 
 #EXTINF:-1 group-title="TV ABERTA",Band [2]
-https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
+http://svrfit.com:25461/Ednar889967/536286/573
 
 #EXTINF:-1 group-title="TV ABERTA",Globo [1]
 http://200.4.96.59:8002/play/a0fk/index.m3u8
