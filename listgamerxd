@@ -708,7 +708,7 @@ http://limetv.me:80/live/4719wil/452540/95508.m3u8
 https://m3u9.ml/a2/hls1/espn.m3u8?mu3zAQc9HC3GbwJq=wjL1DQGdMdPptGLLQyZfeQ&3U1G7qaTxrPbalZnEx=1654653211
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://limetv.me:80/live/4719wil/452540/89970.m3u8
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 3
 http://limetv.me:80/live/4719wil/452540/89974.m3u8
