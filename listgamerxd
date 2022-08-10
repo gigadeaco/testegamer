@@ -8,6 +8,9 @@
 #EXTINF:-1 group-title="ANTENA",Band
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
+#EXTINF:-1,Conmebol TV 1
+http://rede.servehttp.com:80/live/video/rede/62.m3u8
+
 #EXTINF:-1 group-title="Agronegócio",Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.web"
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
