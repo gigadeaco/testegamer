@@ -8,3 +8,26 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054258
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CONMEBOL TV 4
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 01 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014579
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 01 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014578
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 01 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 01 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014577
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 02 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014582
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 02 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014581
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 02 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 02 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014580
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 03 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014585
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 03 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014584
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 03 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 03 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014583
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 04 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014588
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 04 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1014587
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV - 04 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Conmebol TV - 04 SD
